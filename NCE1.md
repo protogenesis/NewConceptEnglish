@@ -578,7 +578,7 @@ must的否定形式为: mustn't, dont need to,needn't
 
 ##### 宾语从句
 
-宾语从句在句中做宾语,一般有that引导(在口语中经常省略that)
+宾语从句在句中做宾语,一般由that引导(在口语中经常省略that),从句的语序为陈述句语序
 
 可用宾语从句的动词有: glad, sure, afraid, think, say, hope, sorry. etc
 
