@@ -1188,7 +1188,11 @@ put off the fire: 把火熄灭(手动灭)
 
 ##### 定语从句
 
-定语从句分为先行词(主语),关系代词, 指人的关系代词有: who, whom, whose, that, 指物的关系代词有: which, that
+定语从句有两个概念: 
+
+1. 先行词(主语)
+
+2. 关系代词, 指人的关系代词有: who, whom, whose, that, 指物的关系代词有: which, that
 
 当关系代词在定语从句中做宾语时,可以省略,做主语则不能省略
 
@@ -1200,9 +1204,9 @@ because of是介词短语,后面加名词性质的成分,例如名词,动名词
 
 ##### deserve与worth的区别
 
-deserve只应得的,worth指值得
+deserve指应得的,worth指值得
 
-can与be able to的区别
+##### can与be able to的区别
 
 can表示天生,或学到的能力,只能用于现在时和过去式,能用can的地方能用be able to,can不可用于将来时,将来时用be able to
 
