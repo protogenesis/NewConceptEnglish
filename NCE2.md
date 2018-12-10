@@ -1294,3 +1294,24 @@ the plough/big Dipper 北斗七星
 >
 > once...and on another occasion...  一次...另一次...
 
+
+
+# Lesson 30
+
+#### Main knowledge
+
+- 复习冠词的使用
+
+##### 短语结构
+
+- in sight  在视野范围内
+- out of sight  视野范围之外
+- so...that...  太...以至于
+- like doing sth  喜欢做某事(长期的)
+- like to do  一时想做某事
+- cut down  减少,缩减
+- out of sight, out of mind  眼不见,心不想
+- kick a habit  戒掉恶习
+- at the sight of  一看到...
+- catch sight of  突然看到
+
