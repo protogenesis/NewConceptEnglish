@@ -1315,3 +1315,36 @@ the plough/big Dipper 北斗七星
 - at the sight of  一看到...
 - catch sight of  突然看到
 
+
+
+# Lesson 31
+
+#### Main knowledge
+
+- 复习一般过去时和过去进行时
+- used to do sth, be used to do sth, used to doing sth
+
+##### 一般过去时和过去进行时
+
+过去进行时强调过去持续性的发生的动作,一般过去时强调过去短暂的动作或事件,常常与过去进行时连用
+
+##### used to do
+
+used to do sth	过去常常做某事(现在不做了)
+
+be used to doing sth		习惯做某事
+
+be used to do sth 	被用来做某事
+
+be used for doing sth		被用于做某事
+
+> used to做疑问句或否定句时,可以直接以used开头,也可以用did开头
+
+##### 短语结构
+
+- succeed sb as sth	  接任,接替某人某事
+- save sb sth  给某人节省某物
+- in the company of  与某人一起
+- in company with sth  和某事同时发生
+- two's company, three's a crowd  两人为伴,三人不欢
+- great works are performed not by strengh, but by perseverance    著作靠的不是力量,而是毅力
