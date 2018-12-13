@@ -1401,3 +1401,65 @@ once upon a time  很久以前
 to put in simply  简单地说
 
 be under arrest  被逮捕
+
+
+
+# Lesson 33
+
+#### Main knowledge
+
+- 表示方位的介词用法
+
+##### 表示方位的介词用法(小品词)
+
+表示上下: on/off  up/down
+
+表示从某地出发去往另一个地方用from/to...to/from
+
+表示朝向,方向用 towards: 接近,朝,向
+
+表示离开,去往某地用leave for或set out/off for, be away from  从某地离开
+
+表示在某地或在某..里面用in,at,on,out of,into,表示目的地或位置往往用at
+
+表示穿过,越过,绕过等用 through, across, round, under, over等介词
+
+
+
+##### past与passed的区别
+
+passed表示通过,经过,也可以表示时间的消逝
+
+past可以做名词,介词,形容词等,
+
+> 形容词: 以前的,过去的;
+>
+> 介词: 通过,超出
+>
+> 名词: 过去,曾经
+
+
+
+##### next和other
+
+next表示时间顺序上的或'下一个','紧接的',如果以现在为基础,则next前一般不加the,如果以过去或将来的时间为基础,next前要加the或者其他的修饰词来特指
+
+other表示时间时表示以前
+
+> the other day = a few days ago
+
+##### 表示岸边的不同意义
+
+coast: 海岸线(地理意义)
+
+seaside: 海滨(供玩乐)
+
+shore: 海或湖岸边地带
+
+bank: 河的两岸
+
+##### 短语结构
+
+a distance of ...   多远的距离
+
+ahead of time  事先,提前
