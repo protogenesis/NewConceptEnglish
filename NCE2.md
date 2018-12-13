@@ -1322,7 +1322,7 @@ the plough/big Dipper 北斗七星
 #### Main knowledge
 
 - 复习一般过去时和过去进行时
-- used to do sth, be used to do sth, used to doing sth
+- used to do sth, be used to do sth,be used to doing sth
 
 ##### 一般过去时和过去进行时
 
@@ -1332,7 +1332,7 @@ the plough/big Dipper 北斗七星
 
 used to do sth	过去常常做某事(现在不做了)
 
-be used to doing sth		习惯做某事
+be/get used to doing sth		习惯做某事
 
 be used to do sth 	被用来做某事
 
@@ -1348,3 +1348,56 @@ be used for doing sth		被用于做某事
 - in company with sth  和某事同时发生
 - two's company, three's a crowd  两人为伴,三人不欢
 - great works are performed not by strengh, but by perseverance    著作靠的不是力量,而是毅力
+
+
+
+# Lesson 32
+
+#### Main knowledge
+
+- 比较状语从句
+- little和few的用法
+
+##### 比较状语从句
+
+比较状语从句意为和...相比,比较的两者需要具有'可比性',可比性就是两者相比较不会觉得有歧义
+
+一般的比较状语从句构成为:
+
+除了形容词的比较级,最高级外,还有as/so...as, not so/as...as
+
+##### little与few的用法
+
+little表示不可数名词复数, a little表示一点点,little不加冠词表示否定,几乎没有的意思,比较级是less,等于not much
+
+few表示可数名词复数, a few表示一点点,不加冠词表示否定,几乎没有,比较级是fewer
+
+##### one和a
+
+a 通常表示不确定的人或物,或第一次提到的人或物
+
+在表示数量时,one比a更加强烈,叙述一件事时通常将one + 表示时间的名词放在一块,而不用a
+
+如果one不表示强调,两者可以互换
+
+##### article和thing和good的区别
+
+article 表示一件一件的物品
+
+thing 表示统称
+
+good 商品的总称
+
+##### 
+
+##### 短语结构
+
+as adj. as possible  尽可能...的
+
+once in a while  偶尔
+
+once upon a time  很久以前
+
+to put in simply  简单地说
+
+be under arrest  被逮捕
