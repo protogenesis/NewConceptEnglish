@@ -1482,9 +1482,9 @@ ahead of time  事先,提前
 
 > For example:
 >
-> The spy has been arrested.  这个间谍已经被逮捕
+> 动词为被动,不定式为主动: Was she told to meet us?  有人告诉她来接我们吗?
 >
-> I never thought of the spy to be arrested.   我从没想过这个间谍会被逮捕
+> 动词为主动,不定式为被动: I never thought of the spy to be arrested.   我从没想过这个间谍会被逮捕
 
 被动语态的构成因时态变化而变化,见第10课
 
@@ -1505,3 +1505,48 @@ call up sb	打电话给某人
 picked sb up		接某人
 
 picked sth up	捡起...
+
+# Lesson 35
+
+#### Main knowledge
+
+- so ... that ... 构成的短语和such ... that ... 构成的短语
+- 主动 + 动词 + 名词/代词 + 不带to的不定式
+
+##### so ... that ... 构成的短语和such ... that ... 构成的短语
+
+这两种短语要表达的意思都是太...以至于...
+
+但是so后面只能接形容词或副词(so在这里是副词)然后接that
+
+such后面跟形容词(可选的)和名词+that
+
+> For example:
+>
+> He has got such a fright that he ran away. 他害怕地跑掉了
+>
+> He is so intelligent that he wins the race every time. 他非常聪明,每次比赛都赢
+
+##### 主动 + 动词 + 名词/代词 + 不带to的不定式(感官动词)
+
+当see等其他一些感知动词(如feel, hear, notice, smell, watch等)做动词时,后面的动词不定式不要带to
+
+> For example:
+>
+> I saw he climb through the window.  我看见他从窗户爬进去了
+>
+> 等于这句: I saw that he climbed through the window.
+
+##### 短语结构
+
+regret sth	后悔某事
+
+regret doing sth	后悔做某事
+
+regret to do sth	要做某事而感到遗憾
+
+by far	无疑,最
+
+rush sb	催促
+
+act the part of ... 	扮演...的角色
