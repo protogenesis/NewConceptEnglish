@@ -1550,3 +1550,43 @@ by far	无疑,最
 rush sb	催促
 
 act the part of ... 	扮演...的角色
+
+
+
+# Lesson 36
+
+#### Main knowledge
+
+- 一般将来时be going to和will的用法
+- watch和look at和follow和see的区别
+- solid和firm和stable的区别
+
+##### 一般将来时be going to和will的用法
+
+be going to一般用于非正式用语中,即将要做某事,通常为现在的迹象表明即将要做某事,某事即将发生;
+
+will一般用于书信等正式用语中,如果句子中的一般将来时态是由某个条件等不确定因素决定是否发生的话,通常用will
+
+##### watch和look at和follow和see的区别
+
+watch: 关注,注视  关注的对象通常是活动的物体
+
+look at: 看,强调看的动作
+
+see: 看一眼
+
+follow: 目光跟随
+
+##### solid和firm和stable的区别
+
+solid: 坚固的,固体的一般形容非液体的物品
+
+firm: 牢固的,稳固的,一般形容态度
+
+stable: 稳定的,稳固的,一般形容性格,抽象的事物
+
+##### 短语结构
+
+anxious to do sth: 急切想要做某事
+
+anxious about:  感到焦虑...
