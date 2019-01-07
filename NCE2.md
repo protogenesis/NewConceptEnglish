@@ -1628,3 +1628,57 @@ raise/lower a standard  提高/降低一个标准
 
 
 > As放在句首可以表示 由于,因为; 有时也可以表示当,在...时候,与while作用类似
+
+
+
+# Lesson 38
+
+Main knowledge
+
+- 复习过去完成时,一般过去时
+- country和countryside
+- continually和continuously
+- no sooner...than...和hardly...when...
+- as if和as though
+
+
+
+##### 复习过去完成时,一般过去时
+
+过去完成时表示过去的过去已经完成,常与过去完成时连用的表示时间的词有: before,as soon as, until,no sooner...than,hardly...when...等
+
+##### country和countryside
+
+country表示国家,乡间,表示乡间时一般加the,表示国家时不一定加the
+
+countryside表示农村,乡下
+
+##### continually和continuously
+
+continually   不断地 adv.
+
+continual   不断的  adj.
+
+coontinue  继续  v.
+
+continuously  持续不断地 adv.
+
+continuous  持续不断的 adj.
+
+continually表示频繁地(中间可能停止过)
+
+continuously表示持续不断地(没有中断过)
+
+##### no sooner...than...和hardly...when...
+
+两者都是与过去完成时连用来表达时间的,与as soon as作用相同,更加正式
+
+no sooner...than...  一...就...
+
+hardly...when...  没来得及...就.../刚一...就...
+
+##### as if和as though
+
+as if/as though  好像,犹如
+
+通常用在表示行为举止的句子中,如act,smell,fell等
