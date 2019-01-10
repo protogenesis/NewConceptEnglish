@@ -1561,7 +1561,7 @@ such后面跟形容词(可选的)和名词+that
 
 regret sth	后悔某事
 
-regret doing sth	后悔做某事
+regret doing sth	后悔做了某事
 
 regret to do sth	要做某事而感到遗憾
 
@@ -1784,3 +1784,80 @@ make time  抽出时间
 be busy doing   忙于做某事
 
 look down to sb  看不起某人
+
+
+
+# Lesson 41
+
+Main knowledge
+
+- v. + doing和v. + to do sth
+- 情态动词need
+- must和need
+- in front of和in the front of
+- can't...too...用法
+
+##### v. + doing和v. + to do sth
+
+有些动词后加v.ing(动名词)形式表示对做过的或发生的怎么怎么样.
+
+有些动词后加动词不定式表示..去做某事
+
+> For example:
+>
+> forget to do sth  忘记去做某事
+>
+> forget doing sth  忘记做了某事
+
+##### 情态动词need
+
+当表示必要的含义时,need可以做情态动词使用,但是只能用在疑问句或否定句中
+
+用在疑问句中时一般希望得到否定的回答 否定回答用need't,肯定回答用must, had to(不是have to)
+
+need用在现在完成时中为need + have + done, 过去式为did't need
+
+##### must和need
+
+must在表示必须时,语气比need更加强烈,但是回答以must开头的疑问句时,否定不用mustn't,而用need't,  dont have to
+
+##### in front of和in the front of
+
+区别:
+
+> For example:
+>
+> There is a tree in front of the house.  在这栋房子前有一颗树(房子外面)
+>
+> There is a chiar in the front of the room.  在这件房间的前面有一张椅子(房间里面)
+
+##### can't...too...用法
+
+can't...too...表示无论怎样...都不过分,通常有以下几种形式
+
+can never ... too ...
+
+can't ... too ...
+
+cannot ... too ...
+
+##### remark和observe和notice的区别
+
+remaker和observe都可以表示说,比say更加正式
+
+observe和notice都可以表示观察,注意到,但是notice表示无意观察到,observe表示有意观察到
+
+##### 短语结构
+
+It is adj. to do sth  做某事是...样的
+
+make a remember  使...想起
+
+reminde sb of sth  提醒某人某事
+
+reminde sb to do sth  提醒某人去做某事
+
+
+
+
+
