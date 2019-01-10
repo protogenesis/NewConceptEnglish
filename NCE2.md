@@ -1853,9 +1853,9 @@ It is adj. to do sth  做某事是...样的
 
 make a remember  使...想起
 
-reminde sb of sth  提醒某人某事,使某人想起某事
+remind sb of sth  提醒某人某事,使某人想起某事
 
-reminde sb to do sth  提醒某人去做某事
+remind sb to do sth  提醒某人去做某事
 
 remark on...  谈论
 
