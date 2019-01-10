@@ -1813,7 +1813,7 @@ Main knowledge
 
 当表示必要的含义时,need可以做情态动词使用,但是只能用在疑问句或否定句中
 
-用在疑问句中时一般希望得到否定的回答 否定回答用need't,肯定回答用must, had to(不是have to)
+用在疑问句中时一般希望得到否定的回答 否定回答用needn't,肯定回答用must, had to(不是have to)
 
 need用在现在完成时中为need + have + done, 过去式为did't need
 
@@ -1845,7 +1845,7 @@ cannot ... too ...
 
 remaker和observe都可以表示说,比say更加正式
 
-observe和notice都可以表示观察,注意到,但是notice表示无意观察到,observe表示有意观察到
+observe和notice都可以表示观察,注意到,但是notice表示无意	观察到,observe表示有意观察到
 
 ##### 短语结构
 
@@ -1853,9 +1853,15 @@ It is adj. to do sth  做某事是...样的
 
 make a remember  使...想起
 
-reminde sb of sth  提醒某人某事
+reminde sb of sth  提醒某人某事,使某人想起某事
 
 reminde sb to do sth  提醒某人去做某事
+
+remark on...  谈论
+
+a mirror of   反映出
+
+
 
 
 
