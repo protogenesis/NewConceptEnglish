@@ -27,7 +27,7 @@
 
 感叹句以what/how开头
 
-表示单数: what+不定冠词+形容词+名词(+主语+be动词);
+表示单数: what+不定冠词+形容词+名词(+主语+be动词)
 
 表示复数: what+形容词+名词的复数/不可数名词(+主语+be动词)
 
@@ -149,7 +149,7 @@ spare parts: 备件
 
 1. 动词的过去式一般以ed结尾
 2. 以e结尾的直接加d
-3. 以辅音+y结尾的需要将y变成i再加ed
+3. 以辅音字母+y结尾的需要将y变成i再加ed
 4. 重读闭音节的动词需要双写末尾再加ed
 5. 不规则变化
 
@@ -276,7 +276,7 @@ while一般是两件事情同时发生
 + 一般在形容词后加er/est
 + 如果以e结尾的直接加s/st
 + 如果以单音节+只有一个元音字母+清辅音结尾,双写词尾再加es/est
-+ 如果以辅音+y结尾的,y变成i再加er/est
++ 如果以辅音字母+y结尾的,y变成i再加er/est
 + 如果为多音节的需要加more/most, less/least
 + 不规则的变化
 
@@ -385,7 +385,7 @@ grow加形容词通常表示变得怎么怎么样
 + sb be allowed to do sth. 某人被允许做某事
 + get in touch with sb. 与某人取得联系
 + keep/stay in touch with sb: 与某人保持联系
-+ the damages is done: 损坏已经造成了
++ the damage is done: 损坏已经造成了,于事无补
 + cause damage to: 造成损坏
 
 
@@ -845,9 +845,9 @@ go on doing	继续做某事
 
 go on to do	继续做另一件事
 
-stop doing sth  停止做某事
+stop doing sth  停止做某事(停止当前的事)
 
-stop to do sth  停下来去做某事
+stop to do sth  停下来去做某事(停下一件事去做另外一件事)
 
 # Lesson 21
 
@@ -1731,7 +1731,7 @@ Main knowledge
 
 - 形容词的次序
 - 将来进行时
-- 非真实性条件句
+- 非真实性条件句(虚拟语气)
 
 ##### 形容词的次序
 
@@ -1860,6 +1860,81 @@ remind sb to do sth  提醒某人去做某事
 remark on...  谈论
 
 a mirror of   反映出
+
+
+
+# lesson 42
+
+Main knowledge
+
+- have作为完全动词的用法
+- pick 组成的短语
+
+##### have作为完全动词的用法
+
+have除了可以充当一些动词的含义外,还可以和在后面加上名词来表示完成某个动作(根据文章上下文推断)
+
+> have a look  看一眼
+>
+> have a walk  散步
+>
+> have a smell  闻
+
+##### pick 组成的短语
+
+pick up: 捡起,去接某人,学会,意外地找到等
+
+pick out: 挑选,辨认
+
+##### rise和raise的区别
+
+rise强调自然的上升,提高
+
+raise强调人为的提升,抬起
+
+##### glimpse和glance的区别
+
+两者都表示看的短暂的动作,glimpse强调无意,glance强调有意
+
+> have/get/catch a glimpse   瞥了一眼
+>
+> take a glimpse/glance  看了一眼(主动的)
+
+##### 短语结构
+
+tell the difference between ...   分辨...的区别
+
+make no difference  没有区别,毫无影响
+
+in tune  合调,一致
+
+out of tune  跑调
+
+on the market  在售的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
