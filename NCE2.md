@@ -1914,7 +1914,57 @@ on the market  在售的
 
 
 
+# Lesson 43
 
+Main knowledge
+
+- can,could和be able to
+
+##### can,could和be able to
+
+can,could一般用于在表示请求,能力,可能性的句子中
+
+be able to表示能够,在一般现在时和一般过去时中通常可以互换
+
+在过去式中be able to往往表示成功做成某事
+
+be able to: 能够
+
+was able to: 成功做成(学到)某事
+
+##### lie作为处于/躺,和作为说谎的时候一些区别
+
+lie作为处于/躺时,过去式为lay,过去分词为lain,现在进行时为lying
+
+lie作为说谎时,过去式和过去分词为lied,现在进行时为lying
+
+##### 短语结构
+
+succeed in doing sth/managed to do sth/was able to  成功做成某事
+
+be able to do sth without difficultly(adj.)   能够毫无困难(adj.)的去做某事
+
+come/get to the point  回到重点
+
+exploreration of ... 	对...的探究
+
+run/get into trouble   陷入困境
+
+at once  立即
+
+at present  目前
+
+at least  至少
+
+at times  有时
+
+at last  最终
+
+at any rate  不管怎样
+
+at heart  实际上,内心里
+
+at a loss  困惑不解,不知咋办
 
 
 
