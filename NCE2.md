@@ -1759,9 +1759,13 @@ Main knowledge
 >
 > if you go by train, you will get there earlier.	如果你坐火车去,你会早些到那儿
 
-##### fix和mend的区别
+##### fix和repair和mend的区别
 
-fix表示修理,mend表示缝补
+fix表示固定(物体)
+
+repair表示修理(汽车,电器)
+
+mend表示缝补(衣物,感情)
 
 ##### 短语结构
 
@@ -1965,6 +1969,77 @@ at any rate  不管怎样
 at heart  实际上,内心里
 
 at a loss  困惑不解,不知咋办
+
+
+
+# Lesson 44
+
+Main knowledge
+
+- 动词短语和结构
+- 动名词
+
+##### 动名词
+
+动名词在句子中可以做主语,宾语,介词宾语 
+
+*在有些动词中,不定式和动名词有区别*
+
+​	不定式通常表示正准备做某事、或建议做某事
+
+​	动名词通常表示正在做某事或一般的行为
+
+> I like to watch TV.  我想要看电视  (准备做某事)
+>
+> I like watching TV.  我喜欢看电视 (一般的行为)
+
+> 在perfor...to的结构中,只能用动名词形式
+>
+> Why don't you drive to work instead of walking?   你为什么不开车去上班,而要走路呢?  (walking为动名词)
+>
+> I prefer walking to driving.		我喜欢走路,不喜欢开车
+
+*在有些动词中,不定式和动名词没有区别*
+
+​	在start,begin,continue后面,用动词不定式或者动名词区别并不大
+
+> I began to learn English a year ago.  一年前我开始学习英语
+>
+> I began learning English a year ago.  同上
+
+*在need,want,request中,动名词等于不定式的被动语态*
+
+> The car needs repairing.  ->   This car needs to be repaired.   这辆车需要被修理
+>
+> The cups want washing.  ->    The cups want to be washed.    这些被子需要被清洗
+
+##### 动词短语
+
+take/run the risk(of doing)   冒着...的危险
+
+risk doing sth  冒着危险做某事
+
+at the edge of  在..的边上
+
+in one's possession   为某人所有
+
+take/in possession of  sb  同上
+
+go through  翻看,搜寻
+
+be no picnic  不是一件轻松的事
+
+out of breath  上气不接下气
+
+take sb'e breath away  目瞪口呆
+
+hold sb's breath   屏住呼吸
+
+be content to do sth  开心,满足的做某事
+
+be conotent with sb 和某人在一起感到开心,满足
+
+
 
 
 
