@@ -704,9 +704,9 @@ district: 范围比region小,形容特地划分出来的一片区域
 
 疑问句中使用不得不提问时,一般用Must开头
 
-must还可以用来表示推测: must be: 一定是
+must还可以用来表示推测,后面一般跟be动词原型: must be  一定是
 
-表示否定用can't be,表示过去的推测用must have been,can't have been
+表示否定用can't be,表示过去的推测用must have been,can't have been(过去完成时)
 
 ##### suit和costume的区别
 
@@ -870,7 +870,7 @@ stop to do sth  停下来去做某事(停下一件事去做另外一件事)
 
 现在时: modal verb + be + done, 
 
-完成时: modal verb + have/has + been + done
+完成时: modal verb + have + been + done
 
 助动词的被动语态也是助动词 + be + done
 
@@ -2041,9 +2041,44 @@ be conotent with sb 和某人在一起感到开心,满足
 
 
 
+# Lesson 45
 
+Main knowledge
 
+- 复习被动语态
 
+- while引导时间时的用法
+- steal和rob的区别
+
+##### while引导时间时的用法
+
+while通常引导一个时间状语从句,while后的句子通常满足三个条件
+
+1. 与主句同一时间发生
+2. 主句和从句的主句是同一个人
+3. 从句中的动词通常是持续性的
+
+##### steal和rob的用法
+
+steal是偷偷摸摸的,rob是光明正大的抢
+
+steal搭配的介词通常是from
+
+> steal sth from sb
+>
+> steal sb sth
+
+rob搭配的介词通常是of
+
+> rob sb of sth
+
+##### 短语结构
+
+soon learnt  得知,获悉
+
+be excited(adj.) to learnt that...  得知...非常激动(adj.)
+
+A clear conscience is a soft pillow.  不做亏心事不怕鬼敲门
 
 
 
