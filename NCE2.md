@@ -2082,15 +2082,117 @@ A clear conscience is a soft pillow.  不做亏心事不怕鬼敲门
 
 
 
+# Lesson 46
+
+Main knowledge
+
+- cloth和clothe和clothes和clothing
+- 同位语从句
+- 动词和介词的搭配
+
+##### cloth和clothe和clothes和clothing
+
+cloth:  布,织物
+
+clothe:  给..穿上衣服
+
+clothes:  衣服
+
+clothing:  服装(统称)
+
+##### 同位语从句
+
+同位语从句指句子当中由that引导的从句作用主句的补充说明,同位语从句中that不可省略
+
+##### 动词和介词的搭配
+
+|       搭配       |   释义    |
+| :--------------: | :-------: |
+|   accustom to    |  习惯于   |
+|    amount to     |   达到    |
+|    appeal to     |   呼吁    |
+|   apply to/for   |  适用于   |
+|    attach to     |  附属于   |
+|    belong to     |   属于    |
+|   challenge to   | 提出挑战  |
+| compare to/with  |   比较    |
+|    condemn to    |   判刑    |
+|    confess to    |   承认    |
+|    confine to    |   限制    |
+|    consent to    |   同意    |
+|    attend to     |   参加    |
+|    convert to    | 转变信仰  |
+|    entitle to    | 享有权利  |
+|    listen to     |    听     |
+|    mention to    |   提到    |
+|    object to     |   反对    |
+|     occur to     |   想到    |
+|    prefer to     |  更喜欢   |
+| react to/against | 对...反应 |
+|     reply to     |   回答    |
+|    respond to    |   响应    |
+|      see to      |   注意    |
+|    submit to     |  服从于   |
+|   surrender to   |   投降    |
+|     turn to      |   转向    |
+|     yield to     |   屈服    |
+
+|       搭配        |    释义     |
+| :---------------: | :---------: |
+|  amuse(d) at/by   | 对...感兴趣 |
+|   arrive at/in    |    到达     |
+|  astonish(ed) at  |  感到惊愕   |
+|    exclaim at     |    惊叫     |
+|     glance at     |   看一眼    |
+|     guess at      |    猜测     |
+|     knock at      |     敲      |
+|      look at      |     看      |
+|    point at/to    |    指向     |
+|  shock(ed) at/by  |  感到震惊   |
+|     stare at      |   盯着看    |
+| surprise(d) at/by |  感到惊讶   |
+|  wonder at/about  |  感到惊异   |
+|    work at/on     |    钻研     |
+
+|     搭配      |   释义    |
+| :-----------: | :-------: |
+|  account for  |   说明    |
+|  ask for/of   |   请求    |
+|  act for/on   |   代表    |
+| apologize for | 因...道歉 |
+|   blame for   |   责备    |
+|    beg for    |   乞求    |
+|   call for    |   需要    |
+|  charge for   |   收费    |
+| exchange for  |   交换    |
+|   hope for    |   希望    |
+
+|         搭配          |   释义    |
+| :-------------------: | :-------: |
+|     help with/in      |   帮助    |
+|    please(d) with     | 对...满意 |
+|   interfere with/in   |   干扰    |
+|       min with        |   混合    |
+|   occupy(ied) with    |  从事于   |
+|       part with       |   放弃    |
+|  quarrel with/about   |   争论    |
+|      reason with      |   规劝    |
+| satisfy(fied) with/by | 感到满足  |
+|   threaten(ed) with   |   威胁    |
 
 
 
+##### 短语动词
 
+account for   为...做出(满意的)解释
 
+make a pile   赚了一大笔钱
 
+sth occurred to sb    某人想起某事 (主语是事)
 
+sb be astonished at sth   某人对某事感到吃惊
 
-
+pay for   为...支付货款,为...付出代价
 
 
 
