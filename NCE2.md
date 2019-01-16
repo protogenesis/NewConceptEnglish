@@ -896,8 +896,6 @@ to sum up: 总之
 
 
 
-**常与of连用的动词:**
-
 |    搭配     |     释义     |
 | :---------: | :----------: |
 |  accuse of  | 控告,归咎于  |
@@ -922,8 +920,6 @@ to sum up: 总之
 
 
 
-**v + from**
-
 |     搭配      |     释义     |
 | :-----------: | :----------: |
 | separate from |     分离     |
@@ -938,13 +934,11 @@ to sum up: 总之
 |  defend from  |     保卫     |
 | protect from  |     保护     |
 |  hinder from  |     妨碍     |
-|  emege from   | 从..显现出来 |
+|  emerge from  | 从..显现出来 |
 |  differ from  |   与..不同   |
 |  borrow from  |    从..借    |
 
 
-
-**v + in**
 
 |     搭配      |    释义    |
 | :-----------: | :--------: |
@@ -967,12 +961,10 @@ to sum up: 总之
 
 
 
-**v + on**
-
 |      搭配       |      释义       |
 | :-------------: | :-------------: |
 |     vote on     |    就..表决     |
-|   perfrom on    |      表演       |
+|   perform on    |      表演       |
 |     rely on     |      依赖       |
 |    embark on    |      着手       |
 |    decide on    |      决定       |
@@ -981,13 +973,13 @@ to sum up: 总之
 |     lean on     |      依赖       |
 |   operate on    | 尝试,对..动手术 |
 |    insist on    |    强调,坚持    |
-|  enconomize on  |      节约       |
+|  economize on   |      节约       |
 |    count on     |    依赖,依靠    |
 | concentrate on  |   集中精力于    |
 |    based on     |   以..为基础    |
 |    write on     |     在..写      |
 |    pride on     |    为..自豪     |
-|     live on     |    以..卫生     |
+|     live on     |    以..为生     |
 |  experiment on  |   以..做实验    |
 |    depend on    |     取决于      |
 |   consult on    |      咨询       |
@@ -2137,22 +2129,22 @@ clothing:  服装(统称)
 |     turn to      |   转向    |
 |     yield to     |   屈服    |
 
-|       搭配        |    释义     |
-| :---------------: | :---------: |
-|  amuse(d) at/by   | 对...感兴趣 |
-|   arrive at/in    |    到达     |
-|  astonish(ed) at  |  感到惊愕   |
-|    exclaim at     |    惊叫     |
-|     glance at     |   看一眼    |
-|     guess at      |    猜测     |
-|     knock at      |     敲      |
-|      look at      |     看      |
-|    point at/to    |    指向     |
-|  shock(ed) at/by  |  感到震惊   |
-|     stare at      |   盯着看    |
-| surprise(d) at/by |  感到惊讶   |
-|  wonder at/about  |  感到惊异   |
-|    work at/on     |    钻研     |
+|       搭配        |     释义      |
+| :---------------: | :-----------: |
+|  amuse(d) at/by   |  对...感兴趣  |
+|   arrive at/in    |     到达      |
+|  astonish(ed) at  | 使...感到惊讶 |
+|    exclaim at     |     惊叫      |
+|     glance at     |    看一眼     |
+|     guess at      |     猜测      |
+|     knock at      |      敲       |
+|      look at      |      看       |
+|    point at/to    |     指向      |
+|  shock(ed) at/by  |   感到震惊    |
+|     stare at      |    盯着看     |
+| surprise(d) at/by |   感到惊讶    |
+|  wonder at/about  |   感到吃惊    |
+|    work at/on     |     钻研      |
 
 |     搭配      |   释义    |
 | :-----------: | :-------: |
@@ -2167,18 +2159,24 @@ clothing:  服装(统称)
 | exchange for  |   交换    |
 |   hope for    |   希望    |
 
-|         搭配          |   释义    |
-| :-------------------: | :-------: |
-|     help with/in      |   帮助    |
-|    please(d) with     | 对...满意 |
-|   interfere with/in   |   干扰    |
-|       min with        |   混合    |
-|   occupy(ied) with    |  从事于   |
-|       part with       |   放弃    |
-|  quarrel with/about   |   争论    |
-|      reason with      |   规劝    |
-| satisfy(fied) with/by | 感到满足  |
-|   threaten(ed) with   |   威胁    |
+|         搭配          |     释义      |
+| :-------------------: | :-----------: |
+|     help with/in      |     帮助      |
+|    please(d) with     |   对...满意   |
+|   interfere with/in   |     干扰      |
+|       mix with        |     混合      |
+|   occupy(ied) with    |    从事于     |
+|       part with       |     放弃      |
+|  quarrel with/about   |     争论      |
+|      reason with      |     规劝      |
+| satisfy(fied) with/by |   感到满足    |
+|   threaten(ed) with   |     威胁      |
+|      begin with       |   以...开始   |
+|      agree with       |     赞同      |
+|    correspond with    |   与..一致    |
+|      comply with      |     遵照      |
+|       cope with       |     对付      |
+|    disgusted with     | 对...感到厌恶 |
 
 
 
@@ -2193,6 +2191,72 @@ sth occurred to sb    某人想起某事 (主语是事)
 sb be astonished at sth   某人对某事感到吃惊
 
 pay for   为...支付货款,为...付出代价
+
+
+
+# Lesson 47
+
+Main knowledge
+
+- 宾语补足语
+
+##### 宾语补足语
+
+宾语补足语只是一个术语
+
+> I heard a strange noise coming from the bar.          我听到了从酒吧传来的奇怪的声音
+>
+> 此处coming from the bar就是语法上的宾语补足语(没必要记这些,能够看懂,会用就行)
+>
+> 宾语补足语还有一种方式就是在某些感官动词后可以接不带to的不定式
+>
+> I heard he go back. 我听说他回来了
+>
+> go back是语法上的宾语补足语 
+>
+> 宾语补足语加不带to不定式一般表示已经发生了,加现在分词形式表示正在发生的
+
+##### 短语结构
+
+after all	毕竟,终究
+
+for sale   正在出售
+
+on sale    正在廉价出售
+
+a haunting melody   难忘的曲子
+
+gin  杜松子酒
+
+rum  朗姆酒
+
+brandy   白兰地
+
+vodka    伏特加
+
+champagne   香槟
+
+milkshake  奶昔
+
+shaker  佐料瓶
+
+shake hands with/shake sb by hands		和..握手
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
