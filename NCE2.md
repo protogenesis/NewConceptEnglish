@@ -1677,7 +1677,7 @@ continuously表示持续不断地(没有中断过)
 
 两者都是与过去完成时连用来表达时间的,与as soon as作用相同,更加正式
 
-no sooner...than...  一...就...
+no sooner...than...  一...就...  no sooner开头的句子要倒装
 
 hardly...when...  没来得及...就.../刚一...就...
 
@@ -2241,6 +2241,40 @@ milkshake  奶昔
 shaker  佐料瓶
 
 shake hands with/shake sb by hands		和..握手
+
+
+
+# Lesson 48
+
+Main knowledge
+
+- 复习
+
+##### 短语结构
+
+in answer to sth  作为对..的回答,响应..的请求
+
+in a mean time/at the same tile/meanwhile  同时,在此期间,与此同时
+
+nod off   打盹
+
+rest for a while   休息一会
+
+pull sb's leg    耍弄某人
+
+pull together   齐心协力
+
+pull yourself together    振作起来
+
+collect salary   领工资
+
+collect for sb/sth   为...募捐
+
+nod one's head   点头
+
+a nodding acquaintance   点头之交,略知一二
+
+
 
 
 
