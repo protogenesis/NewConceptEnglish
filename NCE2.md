@@ -1182,7 +1182,7 @@ his breath smells: 他有口臭
 
 the fire is out: 火熄灭了(自动灭)
 
-put off the fire: 把火熄灭(手动灭)
+put out the fire: 把火熄灭(手动灭)
 
 
 
@@ -2254,7 +2254,7 @@ Main knowledge
 
 in answer to sth  作为对..的回答,响应..的请求
 
-in a mean time/at the same tile/meanwhile  同时,在此期间,与此同时
+in a mean time/at the same time/meanwhile  同时,在此期间,与此同时
 
 nod off   打盹
 
@@ -2275,6 +2275,34 @@ nod one's head   点头
 a nodding acquaintance   点头之交,略知一二
 
 
+
+# Lesson 49
+
+- 复合句的语序
+
+##### 复合句的语序
+
+复合句就是一句话中用从句,主句表达清楚一件事情,并且尽量使句子简洁明了
+
+复合句的组成方式有三种:
+
+1. 通过连接词
+   - 连接词有很多种,例如表达时间时用时间连接词,表达方式时用方式连接词
+2. 通过现在分词形式
+   - 现在分词形式一般是主句和从句的主语是同一个并且现在分词表示进行时
+   - 现在分词连接的从句一般放前面,也可以看哪个动作先发生决定顺序
+3. 通过不定式形式
+   - 不定式形式连接从句通常是表达一个目的
+
+##### 短语结构
+
+not...until...   直到...才...
+
+a gust of wind   一阵狂风
+
+glancing at   盯着看了一眼
+
+straight away  直接,马上
 
 
 
