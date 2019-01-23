@@ -2359,6 +2359,68 @@ be in view    看的清楚
 
 
 
+###  Lesson 51
+
+Main knowledge
+
+- contain和include的区别
+- raise和rise的区别
+- lay和lie的区别
+
+##### contain和include的区别
+
+contain一般指容器,包括所有东西
+
+include一般指里面有什么,包含一部分
+
+##### raise和rise的区别
+
+raise后面要加宾语,提高/升高...  过去式/过去分词: raised
+
+rise单独使用,表示太阳生气,起床等  过去式: rose   过去分词: risen
+
+##### lay和lie的区别
+
+lay表示放置,准备  过去式/过去分词: laid
+
+lie表示处于,躺时  过去式: lay  过去分词: lain 
+
+lie表示说谎时  过去式/过去分词: lied
+
+##### 短语结构
+
+pay sb a visit  拜访某人
+
+as adj. as ever  照旧,和往常一样
+
+show sb in/out  领某人进/出来
+
+once in a while   偶尔
+
+again and again  反复
+
+once and again   再次
+
+now and again   偶尔
+
+by/in virtue of ...   凭借(托...的福)
+
+as a reward for   对...的奖赏
+
+reward sb with sth   奖赏某人某物
+
+reward sb for sth   为了...奖赏某人
+
+forbid sb from doing sth  禁止某人做某事
+
+forbid sb to do sth   禁止某人去做某事
+
+be strict with sb  对某人严格
+
+be strict about/in sth   对某事要求严格
+
+be/go on a diet   节食
+
 
 
 
