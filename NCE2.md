@@ -13,7 +13,7 @@
 1. pay no attention.  没有注意
 2.  pay attention. 值得注意
 
->   经典语句: It's none of your business!
+>   经典语句: It's none of your business!   这不关你的事!
 
 # Lesson 2
 
@@ -2005,6 +2005,14 @@ Main knowledge
 >
 > The cups want washing.  ->    The cups want to be washed.    这些被子需要被清洗
 
+
+
+```
+在祈使句中,谓语动词不能用动名词
+```
+
+
+
 ##### 动词短语
 
 take/run the risk(of doing)   冒着...的危险
@@ -2397,11 +2405,13 @@ show sb in/out  领某人进/出来
 
 once in a while   偶尔
 
-again and again  反复
+again and again  再三的
 
 once and again   再次
 
 now and again   偶尔
+
+over and over again 反复不断地
 
 by/in virtue of ...   凭借(托...的福)
 
@@ -2420,6 +2430,36 @@ be strict with sb  对某人严格
 be strict about/in sth   对某事要求严格
 
 be/go on a diet   节食
+
+
+
+### Lesson 52
+
+Main knowledge
+
+- 现在完成进行时
+
+##### 现在完成进行时
+
+现在完成进行时表示过去某个时间一个动作一直在进行,并且持续到了现在,动作现在有了结果,常与for, since, all morning, all...连用
+
+形式为: have been + v.ing
+
+##### 现在完成时和现在完成进行时的区别
+
+现在完成进行时表示一直在持续,并且有可能继续持续下去(观察文章上下文)
+
+现在完成时表示已经完成的动作
+
+##### 短语结构
+
+get sth in order    使...有秩序
+
+carpet bomb   地毯式轰炸
+
+carpet of books  一地的书
+
+to make matters worse   更糟的事情是...
 
 
 
