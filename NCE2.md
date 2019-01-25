@@ -76,7 +76,7 @@
 
 定义: 当一个名词(或名词短语)与另一个名词(或名词短语)相连接时,后面的名词起到补充意义的作用
 
-同位语一般用逗号相连,后面的对前面的名字进行修饰,在翻译的时候一般翻译成一句,如果同位语太长也可以另翻译一句
+同位语一般用逗号相连,后面的对前面的名词进行修饰
 
 ---
 
@@ -127,6 +127,8 @@ On the way: 在路上
 
 In a way: 从某种程度/意义上
 
+by the way: 顺便说下
+
 ##### 一般过去式和现在完成时上一章已经讲过
 
 up to now/until/till now: 到目前为止,用在现在完成时当中
@@ -175,7 +177,6 @@ That's so: 是那样,真的
 
 #### 主要知识点
 
-+ 短语动词
 + a,the,some的使用
 + 一般过去时
 
@@ -186,15 +187,6 @@ That's so: 是那样,真的
 the一般表示特指
 
 some表示一些不确定具体的数量,名词可以是单复数形式
-
-##### 短语动词
-
-详情见第七课
-
-例如: 
-
-+ knock off: 下班
-+ knock at: 敲门
 
 ##### 一般过去时
 
@@ -229,6 +221,8 @@ some表示一些不确定具体的数量,名词可以是单复数形式
 + look for: 寻找
 + knock over: 撞到,打翻
 + knock out: 击昏
++ knock off: 下班,让利
++ knock at: 敲门
 
 ##### 过去进行时
 
@@ -395,7 +389,7 @@ grow加形容词通常表示变得怎么怎么样
 #### 主要知识点
 
 - salary&wages的区别
-- 动词不定式用在动词后做宾语时,往往要在动词后先加上一个名词或代词
+- 名词在动词不定式之前的作用
 
 
 
@@ -411,7 +405,7 @@ borrow是借,借入的意思,经常与介词from连用
 
 lend是把...借给,借出的意思,经常与介词to连用
 
-##### 动词+名词/代词+to不定式
+##### 名词在动词不定式之前的作用
 
 有些动词之后的带to的不定式之前可以跟一个名词或代词,有些动词之后可有可无,但有和没有经常影响整个句子的意义
 
@@ -1055,7 +1049,7 @@ several只能修饰可数的,some可以修饰可数/不可数名词
 
 当句子中存在多个修饰词时,最后两个用and连接,其他的用逗号连接
 
-例如: this room is large, dark, clean and tidy.
+例如: This room is large, dark, clean and tidy.
 
 ##### arrive in和arrive at和reach的区别
 
@@ -1490,7 +1484,7 @@ ahead of time  事先,提前
 
 被动语态主要是用于当主语是动作的承受者时,可以清晰的表达出句子的逻辑关系,(人/物被怎么怎么样了),而避免用a man, someone等不明确的词来充当主语,因为someone其实并不重要
 
-在主语 + 动词 + 不定式中,动词可以用被动语态,不定式用主动语态,也可以动词用主动语态,不定式用被动语态
+主语 + 动词 + 不定式中的被动语态
 
 > For example:
 >
@@ -1882,12 +1876,6 @@ pick up: 捡起,去接某人,学会,意外地找到等
 
 pick out: 挑选,辨认
 
-##### rise和raise的区别
-
-rise强调自然的上升,提高
-
-raise强调人为的提升,抬起
-
 ##### glimpse和glance的区别
 
 两者都表示看的短暂的动作,glimpse强调无意,glance强调有意
@@ -2003,7 +1991,7 @@ Main knowledge
 
 > The car needs repairing.  ->   This car needs to be repaired.   这辆车需要被修理
 >
-> The cups want washing.  ->    The cups want to be washed.    这些被子需要被清洗
+> The cups want washing.  ->    The cups want to be washed.    这些杯子需要被清洗
 
 
 
@@ -2031,7 +2019,7 @@ be no picnic  不是一件轻松的事
 
 out of breath  上气不接下气
 
-take sb'e breath away  目瞪口呆
+take sb's breath away  目瞪口呆
 
 hold sb's breath   屏住呼吸
 
@@ -2200,6 +2188,8 @@ sb be astonished at sth   某人对某事感到吃惊
 
 pay for   为...支付货款,为...付出代价
 
+pay back  归还,复仇
+
 
 
 # Lesson 47
@@ -2335,7 +2325,7 @@ lose做动词,失去某个东西
 
 loose做形容词,某个东西松了
 
-miss做动词,想念/错过
+miss做动词,有想念/错过的意思
 
 ##### view和scene和scenery和sight的区别
 
@@ -2367,7 +2357,7 @@ be in view    看的清楚
 
 
 
-###  Lesson 51
+#  Lesson 51
 
 Main knowledge
 
@@ -2463,7 +2453,45 @@ to make matters worse   更糟的事情是...
 
 
 
+### Lesson 53
 
+- 现在完成时的动词
+- reason和cause的区别
+- drop和fall的区别
+
+##### 现在完成时的动词
+
+现在完成时的动词一般用行为动词,该动作是持续性的
+
+##### reason和cause的区别
+
+reason和cause做名词时都是表示理由,但是两者跟的介词不同
+
+the reason for ...
+
+the cause of ...
+
+reason做动词时表示规劝,通常和with搭配
+
+cause做动词时表示引起,使...产生 常用语被动语态
+
+##### drop和fall的区别
+
+drop表示使..掉落,放下,后面既可以加宾语又可以单独使用
+
+fall表示掉落,摔倒,跌  只能单独使用,不能加宾语
+
+##### 短语结构
+
+cause sb to do sth   使某人去做某事
+
+the cause of   ...的原因
+
+throw at  对准...扔
+
+throw to 扔向...
+
+throw away  丢弃
 
 
 
