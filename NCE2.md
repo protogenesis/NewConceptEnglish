@@ -2495,6 +2495,64 @@ throw away  丢弃
 
 
 
+# Lesson 54
+
+Main knowledge
+
+- 复习定冠词,不定冠词,以及some和any的使用
+
+##### 复习定冠词,不定冠词,以及some和any的使用
+
+a一般不是特指,the表示特指(双方都明白)
+
+在有些名词用在某个动作时,不需要加冠词(看得多了就熟了)
+
+```
+go to school  去学校 (上学)
+go to hospital  去医院  (看病)
+go to bed	去床上  (睡觉)
+..
+```
+
+在某些名词在需要加定冠词
+
+```
+go to the theatre  去剧院 (看戏)
+go to the cinema	去电影院(看定影)
+```
+
+
+
+some和any都可以用来修饰可数或不可数,一般any用在否定句和疑问句,some用在肯定句
+
+如果希望得到肯定的回答,可以用some提问,回答时如果表示任何..一个都可以,可以用any回答
+
+##### 短语结构
+
+at exactly that moment   正好是那个时候
+
+nothing can be more adj.     没有什么比这更加...
+
+persuade sb to do sth/persuade sb into doing sth   劝说某人做某事
+
+pick up the telephont   接听电话
+
+hung up the telephone   挂掉电话
+
+have a sticky finger   有偷窃习惯
+
+##### 各个手指的称呼
+
+thumb  大拇指
+
+index finger/pointer   食指
+
+tall man/middle finger   中指
+
+rign finger  无名指
+
+little finger/pinky  小拇指
+
 
 
 
