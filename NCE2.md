@@ -2423,7 +2423,7 @@ be/go on a diet   节食
 
 
 
-### Lesson 52
+# Lesson 52
 
 Main knowledge
 
@@ -2453,7 +2453,7 @@ to make matters worse   更糟的事情是...
 
 
 
-### Lesson 53
+# Lesson 53
 
 - 现在完成时的动词
 - reason和cause的区别
@@ -2555,9 +2555,35 @@ little finger/pinky  小拇指
 
 
 
+# Lesson 55
 
+Main knowledge
 
+- would和used to表示过去常常时的互换
 
+- use和used to和be used to
+
+##### would和used to表示过去常常时的互换
+
+可以互换的情况: 当used to表示过去经常发生的,有规律的动作(没有暗示或者强调和现在对比),两者可以互换
+
+不可以互换的情况: 当used to表示过去的状态时,或当used to表示过去常常,而现在已经那么做了的时候()
+
+##### use和used to和be used to
+
+use表示使用,后面一般加宾语
+
+used to后面要加动词不定式,表示过去常常做某事,而现在不做了
+
+be used to后面可加动名词表示习惯做某事,或加介词for表示被用于做某事;be可以和get互换
+
+##### 短语动词
+
+fail to do sth  忘记/未能去做某事
+
+be supposed to do sth  应该做某事
+
+Arm with  穿着,装着...
 
 
 
