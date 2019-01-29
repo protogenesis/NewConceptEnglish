@@ -2587,7 +2587,64 @@ Arm with  穿着,装着...
 
 
 
+# Lesson 56
 
+main knowledge
+
+- 两者比较的其他表达方式
+- 修饰名词时的数量搭配词
+
+##### 两者比较的其他表达方式
+
+除了形容词比较级外,还可以使用the same as和different from来进行比较
+
+the same as ...  表示和...一样;  如果意思明显 , as可省略
+
+different from ...  表示和...不一样  
+
+##### 修饰名词时的数量搭配词
+
+much,many 一般不用于肯定句和正式文体
+
+a lot of ... 一般用于口语
+
+a great/good deal of ...   修饰不可数名词,可用于正式文体
+
+a great/good/large number of ...  修饰复数名词,可用于正式文体
+
+a great many of ...   同上
+
+##### take part和take place
+
+take part指参加,参与等
+
+take place指举行,发生等
+
+##### handsome&beautiful&pretty&good looking
+
+handsome一般用于形容男子,长相英俊,也可以形容女子英姿焕发
+
+beautiful一般形容美的,给人美感的
+
+pretty一般形容可爱的
+
+good looking一般形容好看的
+
+##### 短语结构
+
+break down   出毛病,抛锚
+
+at the end of    在...的末尾/最后
+
+have trouble doing sth   做...遇到麻烦
+
+behind/at the wheel   在驾驶中
+
+during/in the course of ...  在...的过程中
+
+speed up  加速
+
+slow down 
 
 
 
