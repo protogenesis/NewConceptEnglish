@@ -2648,6 +2648,50 @@ slow down
 
 
 
+# Lesson 57
+
+Main knowledge
+
+- 复习介词
+
+##### 复习介词
+
+in一般表示在...里面,穿...服装,说...语言,季节,年月等
+
+off一般跟随在动作后面,表示分离...开来
+
+with一般表示伴随着...,描述状态
+
+at一般表示在某个地方,
+
+##### make和let
+
+make和let后面都是加不带to的动词不定式
+
+make sb do sth   迫使某人做某事,当make用在被动语态中时,后面要加to
+
+```
+He makes me get up early.  他让我早起(强迫的意思)
+```
+
+```
+I was made to get up early.  我被迫早起
+```
+
+let sb do sth   让某人做某事(祈使句)   否定形式为let sb not do sth或Don't let sb do sth
+
+当let表示允许时,后面宾语如果是us,不能省略成let's(祈使句可以这么写)
+
+##### 短语结构
+
+hesitate to do sth   犹豫做某事 
+
+scorn to do sth   不屑做某事
+
+seek out   找出
+
+enjoying oneself doing sth   做...感到乐趣
+
 
 
 
