@@ -2694,6 +2694,92 @@ enjoying oneself doing sth   做...感到乐趣
 
 
 
+# Lesson 58
+
+Main knowledge
+
+- 被动语态
+- 强调句
+- 使役动词have
+
+##### 被动语态
+
+被动语态可以用来表示说话者对自己的观点不太有把握
+
+```
+He is the oldest man in this village.  他是这里村子里年龄最大的人  (有把握的)
+
+It is said that he is the oldest man in this village.  据说他是这个村子里年龄最大的人  (没有把握)
+
+He is said to be the oldest man in this village.    翻译同上(口语中常用)   
+```
+
+##### 强调句
+
+强调句是将一个简单句分开,强调其中的一部分,形式为: it is/was ...(强调的内容) that ...
+
+```
+Ross phoned Rachel last night.  罗斯昨晚给瑞秋打了电话(简单句,没有强调)
+
+It was Ross who phoned Rachel last night.  是罗斯昨晚给瑞秋打了电话(强调是罗斯打的电话,不是别人)
+
+It was Rachel whom Ross phoned last night.  昨晚是瑞秋接了罗斯的电话(强调是瑞秋接的电话)
+
+It was last night that Ross phoned Rachel.  是昨晚罗斯给瑞秋打了电话(强调是昨晚)
+```
+
+##### 使役动词have
+
+have sb doing sth   使某人做某事
+
+have sth done   使...被完成
+
+##### the number of和a number of的区别
+
+the number of表示...的数量,总数;后面的谓语动词需要用单数
+
+a number of表示若干,后面的谓语动词用复数
+
+```
+The number of patients in this hospital has increased.  这家医院的病人越来越多了.
+
+A number of patients have asked to see you.   很多病人要求见你
+```
+
+##### increase和grow的区别
+
+increase表示增加,增强
+
+grow表示增长 (人的生长,成长)
+
+##### gain和earn的区别
+
+两者都可以表示获得
+
+gain还可以表示从...获益
+
+earn还可以表示赚钱
+
+##### pick和cut的区别
+
+pick表示采摘,采集
+
+cut表示割,切
+
+##### 短语结构
+
+so far   目前为止
+
+by far  无疑,最
+
+be cursed with  受...的折磨
+
+live up to reputation   名副其实
+
+fame and fortune   名与利
+
+
+
 
 
 
