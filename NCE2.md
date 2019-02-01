@@ -2790,9 +2790,9 @@ Main knowledge
 
 to, so as to, in order to, so that, in order that,都可以用来表示目的
 
-其中so that, in order that,后面一般接从句
+其中so that, in order that,是引导目的状语从句的连词短语,并且从句中的时态需要保持一致
 
-表示否定时一般在to前加not,或者在从句中用否定
+其他的后面都是接不定式在句中做目的状语从句,表示否定时一般在to前加not,或者在从句中用否定
 
 ##### 短语结构
 
