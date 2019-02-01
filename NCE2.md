@@ -2780,6 +2780,44 @@ fame and fortune   名与利
 
 
 
+# Lesson 59
+
+Main knowledge
+
+- 表示目的的几种方式
+
+##### 表示目的的几种方式
+
+to, so as to, in order to, so that, in order that,都可以用来表示目的
+
+其中so that, in order that,后面一般接从句
+
+表示否定时一般在to前加not,或者在从句中用否定
+
+##### 短语结构
+
+spend some time on sth   花费多少时间在...上
+
+spend some time (in) doing sth   花费多少时间做某事
+
+expert at doing sth/expert in sth(大的领域)/expert on sth(小的问题)    ...方面,领域的专家
+
+bark at the moon   徒劳无功
+
+barking dogs don't bite    会叫的狗不咬人
+
+have/make a habit of doing sth   养成...习惯
+
+get into the habit of doing sth   养成...的习惯
+
+out of habit/from habit   出于习惯
+
+develop from ... into ...    从...发展成...
+
+break the habit   戒掉恶习
+
+
+
 
 
 
