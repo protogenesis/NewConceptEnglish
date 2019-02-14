@@ -2844,6 +2844,38 @@ the moment that   一...就...
 
 
 
+# Lesson 61
+
+Main knowledge
+
+- 将来完成进行时
+- coast和price和value的区别
+
+##### 将来完成进行时
+
+将来完成进行时表示动作一直在进行并且将持续下去,并且动作在将来的某个时间将会达到某种效果,通常接有表示时间的短语
+
+形式为: will have been + v.ing
+
+##### coast和price和value的区别
+
+- 作名词时
+  - coast表示...的费用,复数表示成本
+  - price表示...的价格,复数表示物价
+  - value表示...的价值,复数表示价值观
+- 作动词时
+  - coast表示花费
+  - price表示询价
+  - value表示尊重
+
+##### 短语动词
+
+at a coast of ...   花费...的价格
+
+put ... right   校正
+
+hundreds and thousands of .../thousands and thousands of ...   成千上万的
+
 
 
 
