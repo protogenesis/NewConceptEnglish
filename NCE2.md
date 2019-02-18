@@ -261,7 +261,13 @@ while一般是两件事情同时发生
 
 ##### 形容词的比较级和最高级
 
-形容词分为平级,比较级,最高级,比较级一般是两个对象进行比较,表示前者比后者更加怎么样,用than连接,最高级一般是用在三个或三个以上的对象中表示在当前群体中最怎么样,形容词最高级前需要加定冠词the,最高级的限定范围一般可用during,in,amoung等介词短语
+形容词分为平级,比较级,最高级
+
+比较级一般是两个对象进行比较,表示前者比后者更加怎么样,用than连接
+
+最高级一般是用在三个或三个以上的对象中表示在当前群体中最怎么样,形容词最高级前需要加定冠词the,最高级的限定范围一般可用during,in,among等介词短语
+
+最高级与定语从句连用时,表示事物的关系代词只能用that
 
 
 
@@ -2878,13 +2884,92 @@ hundreds and thousands of .../thousands and thousands of ...   成千上万的
 
 
 
+# Lesson 62
+
+Main knowledge
+
+- 过去完成进行时
+- quantity和quality的区别
+- great和big的区别
+- soil和ground的区别
+
+##### 过去完成进行时时
+
+过去完成进行时表示在过去的某一时间之前,一个动作一直在发生,并且有了结果
+
+形式为: had been v.ing
+
+在间接引语中,如果转述的是过去时,则从句中的现在完成进行时要改成过去完成进行时
 
 
 
+过去完成进行时和过去完成时有时可以互换使用, 有时则不能
+
+```
+可以互换:
+My father had worked/had been working for this company for ten years when he retired.
+我的父亲在退休时已经在这个公司工作了十年.
+
+不能互换:
+My father had gained two prizes for his conpany before he retired.
+我的父亲在退休前为公司得过两次奖.
+```
 
 
 
+##### quantity和quality的区别
 
+quantity表示的是数量的多少,quality表示质量.
+
+quantity单数时可以表示少量或者大量地
+
+```
+a large/small/great quantity of beer.   大量/少量/许多的啤酒
+```
+
+quantity复数时表示大量地
+
+```
+in huge quantities  大量地
+```
+
+##### great和big的区别
+
+great表示重大的,重要的,更多强调感情色彩
+
+big表示物理体积的大
+
+##### soil和ground的区别
+
+soil可以表示土地,土壤
+
+ground可以表示土地,场面,场地等,含义比较广
+
+quality表示的是质量
+
+##### 短语结构
+
+get sth under control   使...得到控制
+
+out of control  失控
+
+take/gain control of  得到控制
+
+self control  自控
+
+threaten ... with ...   构成...的威胁
+
+in place of   替换
+
+for miles around  方圆数英里
+
+in huge quantities/in quantity   大量地
+
+take root  生根
+
+be sb's destruction   毁掉某人一生的东西
+
+have/take sb's order  请某人点餐
 
 
 
