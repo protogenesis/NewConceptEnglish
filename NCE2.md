@@ -196,7 +196,7 @@ some表示一些不确定具体的数量,名词可以是单复数形式
 
 **短语**
 
-+ begger can't be choosers: 饥不择食,寒不择衣
++ beggar can't be choosers: 饥不择食,寒不择衣
 + a set of: 一套
 + a drop of: 一滴
 + wad: 一叠
@@ -2381,7 +2381,7 @@ include一般指里面有什么,包含一部分
 
 raise后面要加宾语,提高/升高...  过去式/过去分词: raised
 
-rise单独使用,表示太阳生气,起床等  过去式: rose   过去分词: risen
+rise单独使用,表示太阳升起,起床等  过去式: rose   过去分词: risen
 
 ##### lay和lie的区别
 
@@ -2863,20 +2863,20 @@ Main knowledge
 
 形式为: will have been + v.ing
 
-##### coast和price和value的区别
+##### cost和price和value的区别
 
 - 作名词时
-  - coast表示...的费用,复数表示成本
+  - cost表示...的费用,复数表示成本
   - price表示...的价格,复数表示物价
   - value表示...的价值,复数表示价值观
 - 作动词时
-  - coast表示花费
+  - cost表示花费
   - price表示询价
   - value表示尊重
 
 ##### 短语动词
 
-at a coast of ...   花费...的价格
+at a cost of ...   花费...的价格
 
 put ... right   校正
 
@@ -2911,7 +2911,7 @@ My father had worked/had been working for this company for ten years when he ret
 我的父亲在退休时已经在这个公司工作了十年.
 
 不能互换:
-My father had gained two prizes for his conpany before he retired.
+My father had gained two prizes for his company before he retired.
 我的父亲在退休前为公司得过两次奖.
 ```
 
@@ -2933,6 +2933,8 @@ quantity复数时表示大量地
 in huge quantities  大量地
 ```
 
+quality表示的是质量
+
 ##### great和big的区别
 
 great表示重大的,重要的,更多强调感情色彩
@@ -2944,8 +2946,6 @@ big表示物理体积的大
 soil可以表示土地,土壤
 
 ground可以表示土地,场面,场地等,含义比较广
-
-quality表示的是质量
 
 ##### 短语结构
 
@@ -2973,9 +2973,55 @@ have/take sb's order  请某人点餐
 
 
 
+# Lesson 63
 
+Main knowledge
 
+- 复习间接引语
 
+##### 间接引语
+
+间接引语就是转述说话人表达的内容,除了要注意时态外,还需注意:
+
+1. 转述祈使句时用动词不定式
+
+   ```
+   'Give me that pen please,' she said.
+   She asked me to give her that pen.
+   ```
+
+   ```
+   委婉的请求转述用动词不定式
+   'Would you pass the book to me, please?' she said.
+   She asked me to pass the book to me.
+   ```
+
+2. not的位置
+
+   转述否定句时,在动词不定式to前加not
+
+3. 保留情态
+
+   ```
+   'You must give up fishing,' said my friends.
+   My friends said that I had to give up fishing.
+   ```
+
+4. 在suggest和insist等后面要that引导间接陈述句
+
+##### 短语动词
+
+admire sb [for] sth  赞赏(钦佩)某人某事
+
+the sort/kind of   种类
+
+sort/kind of   有一点儿
+
+all sort/kind of  各种各样的
+
+large circle of friends   交友甚广
+
+sense of humour  幽默感
 
 
 
