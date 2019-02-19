@@ -191,7 +191,7 @@ there+be后面有几个并列名词时,而第一个名词是单数,be动词用is
 2. 序数词前要加the
 3. 特指双方都明白的事和物
 4. 形容词的最高级前要加the
-5. 表示独一无二的食物
+5. 表示独一无二的事物
 6. 江河海岛乐曲加the
 
 
@@ -370,7 +370,7 @@ any通常用于否定句和希望得到用no做否定回答的疑问句中
 
 + 如果以辅音字母+y结尾,y变成i再加ed[^待论证]
 
-+ 重读+闭音节且只发一个元音的但单词,双写末尾+ed    *例如: stop,音标/stɔp/ 过去式: stopped* 
++ 重读+闭音节且只发一个元音的单词,双写末尾+ed    *例如: stop,音标/stɔp/ 过去式: stopped* 
 
 
 + 不规则变化
@@ -767,7 +767,7 @@ every, no, any, some可以和one,thing构成复合代词,与where构成复合副
 - invite sb to do sth      邀请某人去做某事
 - It's nice to have you here    非常高兴和你度过愉快的时光
 - every coin has two sides   任何事物都有两面性
-- she swallowed the smile    他忍住了没有笑
+- she swallowed the smile    她忍住了没有笑
 - the nature is calling    自然在呼唤我
 - you are such a chicken     你是如此的胆小
 - by the end of   到...为止
