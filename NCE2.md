@@ -2520,7 +2520,7 @@ go to bed	去床上  (睡觉)
 ..
 ```
 
-在某些名词在需要加定冠词
+在某些名词前需要加定冠词
 
 ```
 go to the theatre  去剧院 (看戏)
@@ -2573,7 +2573,7 @@ Main knowledge
 
 可以互换的情况: 当used to表示过去经常发生的,有规律的动作(没有暗示或者强调和现在对比),两者可以互换
 
-不可以互换的情况: 当used to表示过去的状态时,或当used to表示过去常常,而现在已经那么做了的时候()
+不可以互换的情况: 当used to表示过去的状态时,或当used to表示过去常常,而现在已经那么做了的时候
 
 ##### use和used to和be used to
 
@@ -2794,7 +2794,7 @@ Main knowledge
 
 ##### 表示目的的几种方式
 
-to, so as to, in order to, so that, in order that,都可以用来表示目的
+在句子中可以用to, so as to, in order to, so that, in order that来表示目的
 
 其中so that, in order that,是引导目的状语从句的连词短语,并且从句中的时态需要保持一致
 
@@ -2824,7 +2824,7 @@ break the habit   戒掉恶习
 
 
 
-# lesson 60
+# Lesson 60
 
 Main knowledge
 
@@ -2871,7 +2871,7 @@ Main knowledge
   - value表示...的价值,复数表示价值观
 - 作动词时
   - cost表示花费
-  - price表示询价
+  - price表示询价,定价
   - value表示尊重
 
 ##### 短语动词
@@ -3026,6 +3026,52 @@ sense of humour  幽默感
 
 
 
+# Lesson 64
+
+- 虚拟语气
+- 由suggest,insist等组成的宾语从句-虚拟语气
+- 有draw与介词组成的动词短语
+
+##### 虚拟语气
+
+虚拟语气所表述的不是一个事实,而是一种假设或愿望,常伴有if引导的非真实条件句
+
+虚拟语气的形式:
+
+|        |          从句          |      主句       |
+| :----: | :--------------------: | :-------------: |
+| 现在时 |       did / were       |    would do     |
+| 过去式 |        had done        | would have done |
+| 将来时 | were to do / should do |    would do     |
+
+##### 由suggest,insist等组成的宾语从句-虚拟语气
+
+在suggest,insist,demand,request,recommend等后面所接的that宾语从句中,谓语动词用should + 动词原形,而should常常可以省略,这是一种虚拟语气的结构
+
+suggest后面也可以接动名词形式
+
+```
+He suggested that we (should) call on the headmaster.   他建议我们应该访问校长
+He suggested meeting the headmaster.   他建议访问校长
+```
+
+##### draw与介词组成的动词短语
+
+draw up   停住,草拟,制定
+
+draw off  撤退,离开
+
+draw in   吸入,使...进入
+
+draw back   撤回,后缩
+
+##### 短语结构
+
+be full of fear    充满了恐惧
+
+without fear or favour  公平公正
+
+put forward   提出
 
 
 
