@@ -21,7 +21,7 @@
 
 一般现在时表示经常发生的事或动作,常常与频率副词相连用,例如: always,sometimes,often,rarely,frequently等,同时主语和谓语动词要保持一致
 
-现在进行时表示正在进行的动作,动词需要变成现在分词形式,常跟now,at the moment或根据文章上下文使用
+现在进行时表示正在进行的动作,形式为be动词+动词的现在分词,常与now,at the moment或根据文章上下文使用
 
 ##### 感叹句
 
@@ -269,6 +269,12 @@ while一般是两件事情同时发生
 
 最高级与定语从句连用时,表示事物的关系代词只能用that
 
+```
+The camare will send us the clearest pictures that we have ever seen.
+
+这部照相机将会发给我们一些我们所见过的最清楚的照片.  (这里的that指的是pictures,因为pictures用了最高级,关系代词只能用that)
+```
+
 
 
 形容词的比较级与最高级变化形式:
@@ -413,7 +419,7 @@ lend是把...借给,借出的意思,经常与介词to连用
 
 ##### 名词在动词不定式之前的作用
 
-有些动词之后的带to的不定式之前可以跟一个名词或代词,有些动词之后可有可无,但有和没有经常影响整个句子的意义
+有些动词之后的带to的不定式之前可以跟一个名词或代词,有些动词之后可有可无,但有和没有经常影响整个句子的含义
 
 例如: 
 
@@ -436,7 +442,7 @@ sb's turn to do sth	轮到某人去做某事
 
 in due time	在适当的时候
 
-He who borrow to repay may borrow yet another day		有借有还,再借不难
+He who borrows to repay may borrow yet another day		有借有还,再借不难
 
 
 
@@ -606,18 +612,20 @@ answer作为及物动词时后面+ sb
 ---
 
 >  副词on紧跟在动词后表示向前,继续...的意思
->
-> 例如: go on to the next station. 继续前往下一站
+
+>  例如: go on to the next station. 继续前往下一站
+
+> as soon as: 一...就... 形容两者时间间隔非常短,在将来时中用as soon as要把时态变成现在时
+
+> 当以某种语言作为交际语言,手段时,前面加介词in
+
+##### 短语结构
 
 ask for a lift: 请求搭便车
 
 give sb a lift: 让某人搭便车
 
 hitch hiker: 搭便车的人
-
-as soon as: 一...就... 形容两者时间间隔非常短,在将来时中用as soon as要把时态变成现在时
-
-当以某种语言作为交际语言,手段时,前面加介词in
 
 due to: 原因是,归咎于
 
@@ -658,7 +666,7 @@ wave sb off/goodbye    向某人挥手告别
 
 
 
-##### 由if引导的条件从句
+##### 由if引导的条件从句(第一类条件句)
 
 条件从句表示一件事情依赖于另一件事情的结果,条件从句中的条件一般为现在时,从句为将来时
 
@@ -1055,7 +1063,9 @@ several只能修饰可数的,some可以修饰可数/不可数名词
 
 当句子中存在多个修饰词时,最后两个用and连接,其他的用逗号连接
 
-例如: This room is large, dark, clean and tidy.
+```
+This room is large, dark, clean and tidy.
+```
 
 ##### arrive in和arrive at和reach的区别
 
@@ -1721,11 +1731,11 @@ to have an operation on...   动手术
 
 Main knowledge
 
-- 形容词的次序
+- 形容词的词序
 - 将来进行时
 - 非真实性条件句(虚拟语气)
 
-##### 形容词的次序
+##### 形容词的词序
 
 当名词前跟着多个修饰的形容词时,形容词需要按照一定的顺序排列,通常的规则是
 
@@ -1739,7 +1749,7 @@ Main knowledge
 >
 > Will you be spending your holidays abroad this year?  今年假期你将会在国外度过吗?
 
-##### 非真实条件句
+##### 非真实条件句(第二类条件句)
 
 非真实条件句同样用if作为连接词,但比一般条件句更加不可能实现,一般条件句可能是理性的条件,但非真实条件句是不可能实现的,它的语法也有所不同
 
@@ -1747,7 +1757,7 @@ Main knowledge
 
 > For example:
 >
-> If you went by train, you would get there earlier.   如果你坐火车去,你可能会早些到那儿
+> If you went by train, you would get there earlier.   如果你坐火车去,你可能会早些到那儿(非真实条件句)
 >
 > if you go by train, you will get there earlier.	如果你坐火车去,你会早些到那儿
 
@@ -1825,7 +1835,7 @@ must在表示必须时,语气比need更加强烈,但是回答以must开头的疑
 >
 > There is a tree in front of the house.  在这栋房子前有一颗树(房子外面)
 >
-> There is a chiar in the front of the room.  在这件房间的前面有一张椅子(房间里面)
+> There is a chair in the front of the room.  在这间房间的前面有一张椅子(房间里面)
 
 ##### can't...too...用法
 
@@ -1932,7 +1942,7 @@ lie作为说谎时,过去式和过去分词为lied,现在进行时为lying
 
 succeed in doing sth/managed to do sth/was able to  成功做成某事
 
-be able to do sth without difficultly(adj.)   能够毫无困难(adj.)的去做某事
+be able to do sth without difficulty   能够毫无困难的去做某事
 
 come/get to the point  回到重点
 
@@ -3032,16 +3042,16 @@ sense of humour  幽默感
 - 由suggest,insist等组成的宾语从句-虚拟语气
 - 有draw与介词组成的动词短语
 
-##### 虚拟语气
+##### 虚拟语气(第三类条件句)
 
 虚拟语气所表述的不是一个事实,而是一种假设或愿望,常伴有if引导的非真实条件句
 
 虚拟语气的形式:
 
-|        |          从句          |      主句       |
+|        |      从句(if引导)      |      主句       |
 | :----: | :--------------------: | :-------------: |
 | 现在时 |       did / were       |    would do     |
-| 过去式 |        had done        | would have done |
+| 过去时 |        had done        | would have done |
 | 将来时 | were to do / should do |    would do     |
 
 ##### 由suggest,insist等组成的宾语从句-虚拟语气
@@ -3052,7 +3062,7 @@ suggest后面也可以接动名词形式
 
 ```
 He suggested that we (should) call on the headmaster.   他建议我们应该访问校长
-He suggested meeting the headmaster.   他建议访问校长
+He suggested meeting the headmaster.   他建议看望校长
 ```
 
 ##### draw与介词组成的动词短语
@@ -3075,9 +3085,53 @@ put forward   提出
 
 
 
+# Lesson 65
+
+Main knowledge
+
+- must和have to和should和ought to
+
+##### must和have to和should和ought to
+
+must表示必须的,不可逃避的义务,带有主观感情色彩,一般用于现在和将来时
+
+have to表示不得不,暗示客观情况,一般过去时中用had to
+
+should表示应该,带有个人的感情色彩,一般用于疑问句和否定句中
+
+ought to表示应该,推测或者建议,一般用于肯定句中,比should语气要强
+
+should/ought to have done表示过去应该做某事的,但是实际上没有做(虚拟)
 
 
 
+> 当Father大写时,表示对老人的一种尊称
+>
+> Father Christmas  圣诞老人
+
+##### 与let组成的动词短语
+
+let in  让...进来
+
+let out  让...出去
+
+let off   从轻处理,宽恕
+
+let down   让...失望
+
+##### agree和accept的区别
+
+agree表示同意,常与to,with等介词连用
+
+accept表示接受,同意,及物动词
+
+##### 短语结构
+
+let ... off  绕过,从轻处理
+
+hold up   阻碍
+
+dress up  精心打扮,装扮(成...)
 
 
 
