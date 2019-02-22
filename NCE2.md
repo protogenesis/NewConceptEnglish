@@ -3133,11 +3133,64 @@ hold up   阻碍
 
 dress up  精心打扮,装扮(成...)
 
+It is fortunate that ...    幸运的是,...
+
+be accompanied by sb   在某人的陪同下
+
+accompany sb to do sth  陪同某人去做某事
+
+weigh sb/sth out   权衡
+
+weight sth out  称出重量
+
+weigh a ton   非常的重
+
+approach to ...      ...的过程,方法
 
 
 
+# Lesson 66
 
+Main knowledge
 
+- 使役式
+- 集合名词
+
+##### 使役式
+
+动词have作为完全动词,可以构成使役式,使役式可能理解成使...被做,至于被谁做这不重要
+
+它比被动语态更加强调'使'别人为我们做
+
+形式: have + 名词/代词 + done
+
+当have成为了完全动词时,助动词用do/did
+
+##### 集合名词
+
+集合名词指的是当在表示一个集体的名词时,例如family,team,如果要强调作为整体的集体,动词用单数,如果要强调组成集体的每个人,动词用复数
+
+##### 短语动词
+
+over the years   多年来
+
+remain [to be] adj.   保留着...          
+
+```
+the plane wreck remained to be undisturbed.  这架飞机的残骸仍没有遭到破坏. (to be可省略)
+```
+
+be worth doing   值得去做某事(被动)
+
+turn ... into ...   把...变成...
+
+a colony of ...  一群...(常形容动物)
+
+imagine doing sth  想象做某事
+
+imagine sth / imagine that   想象
+
+preserve sb/sth from   保护,维护
 
 
 
