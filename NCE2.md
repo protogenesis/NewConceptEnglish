@@ -3177,7 +3177,7 @@ over the years   多年来
 remain [to be] adj.   保留着...          
 
 ```
-the plane wreck remained to be undisturbed.  这架飞机的残骸仍没有遭到破坏. (to be可省略)
+The plane wreck remained to be undisturbed.  这架飞机的残骸仍没有遭到破坏. (to be可省略)
 ```
 
 be worth doing   值得去做某事(被动)
@@ -3191,6 +3191,82 @@ imagine doing sth  想象做某事
 imagine sth / imagine that   想象
 
 preserve sb/sth from   保护,维护
+
+
+
+# Lesson 67
+
+Main knowledge
+
+- be able to和can和manage to
+
+##### be able to和could和manage to
+
+can/could表示能力时,通常用在现在时和过去时中
+
+在将来时中表示能力用will be able to
+
+在表示过去成功的做成某事时用was able to
+
+manage to do sth 表示设法做成某事,有时可以和was able to互换
+
+##### was able to和manage to do的区别
+
+was able to表示事情的可能性,并且成功做到了(强调做成的几率)
+
+manage to do 表示经过了一些困难后,成功的做到了(强调做成的不容易性)
+
+was able to通常表示过去
+
+---
+
+##### say和tell和speak和talk的区别
+
+say后面不直接加间接宾语(也就是人),要加的话加to + sb,有据说,表达,送别,诵读的含义
+
+tell后面可以加双宾语,可以表示区分,辨别
+
+speak强调说话的方式,语言
+
+talk表示谈论,交流
+
+##### 动词短语
+
+close to ...   与...靠近
+
+threaten to do sth   威胁着要做某事
+
+say a good word for ...  为...说好话
+
+tell the time  说出时间
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
