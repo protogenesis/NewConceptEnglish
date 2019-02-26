@@ -3216,15 +3216,13 @@ was able to表示事情的可能性,并且成功做到了(强调做成的几率)
 
 manage to do 表示经过了一些困难后,成功的做到了(强调做成的不容易性)
 
-was able to通常表示过去
-
 ---
 
 ##### say和tell和speak和talk的区别
 
 say后面不直接加间接宾语(也就是人),要加的话加to + sb,有据说,表达,送别,诵读的含义
 
-tell后面可以加双宾语,可以表示区分,辨别
+tell后面可以加双宾语,有区分,辨别的含义
 
 speak强调说话的方式,语言
 
@@ -3240,13 +3238,78 @@ say a good word for ...  为...说好话
 
 tell the time  说出时间
 
+be active [in] doing sth   积极做某事
 
 
 
+# Lesson 68
 
+Main knowledge
 
+- 动名词
+- 反义疑问句
+- insist和persist的区别
 
+##### 动名词
 
+- 有些动词后面可以接动名词做宾语,但不能用动词不定式
+
+  - 例如: suggest, avoid, admit, deny, fancy, finish, enjoy, mind, stand等
+
+- 有些结构通常接动名词
+
+  - be busy doing
+  - be worth doing
+  - It is not use/little use doing
+  - interested in doing
+  - insist on doing
+  - prevent ... from doing 
+
+- 动名词的逻辑主语
+
+  - 动名词的逻辑主语可以用来限制动作的执行者
+
+    ```
+    Would you mind if my smoking here?   你介意我在这抽烟吗?
+    
+    Would you mind if smoking here?   你介意有人在这抽烟吗?
+    ```
+
+- 在come和go后面可以跟一些表示户外运动的动名词
+
+- 在感官动词后加动名词可以表示正在进行的,加动词不定式可以表示已经发生的,有时他们可以互换使用
+
+##### 反义疑问句
+
+反义疑问句是由陈述句加简略疑问句组成,前面肯定句,后面用否定句;前面否定句,后面用肯定句
+
+简略疑问句一般由陈述句中的助动词组成
+
+##### insist和persist的区别
+
+两者都表示坚持的意思  
+
+persist表示坚持不懈 (想象: 有人已经告诉他很难实现,但他还是坚持不懈的去做)
+
+insist表示坚持自己,强调  (想象: 有人告诉他做错了,但他坚持他是对的)
+
+##### 短语动词
+
+It is (of) no use doing that ...   做...也是徒劳的的
+
+``` 
+It was not use pretending that I had not seen him.   假装没有看到他是没有用的.
+```
+
+no matter ...  无论
+
+think of a way of ...  想出...的办法
+
+persist in (doing) sth  坚持(做)某事
+
+insist on (doing) sth  坚持(做)某事
+
+avoid doing sth/avoid sb/sth  避免...
 
 
 
