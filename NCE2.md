@@ -3281,9 +3281,20 @@ Main knowledge
 
 ##### 反义疑问句
 
-反义疑问句是由陈述句加简略疑问句组成,前面肯定句,后面用否定句;前面否定句,后面用肯定句
+反义疑问句是由陈述句加简略疑问句组成,前面肯定句,后面用否定句;前面否定句,后面用肯定;简略疑问句一般由陈述句中的助动词组成
 
-简略疑问句一般由陈述句中的助动词组成
+```
+She is a nurse, isn't she?    她是一位护士,不是吗?
+No, she is a airhostess		  不是的,她是一位空姐.
+
+You didn't write a word, did you?   	你一个字都没写,是吗?
+No, not at all.							是的,我一个字也没写.
+
+He doesn't say very much, does he?		他没有说太多,对吗?
+No, he doesn't. 						是的,他没有说太多.
+```
+
+
 
 ##### insist和persist的区别
 
@@ -3313,9 +3324,46 @@ avoid doing sth/avoid sb/sth  避免...
 
 
 
+# Lesson 69
+
+Main knowledge
+
+- 被动语态
+- enjoy和entertain和amuse的区别
+
+##### 被动语态
+
+被动语态可以用于介词+动名词的结构中,如果一个动作发生在前一个动作发生在后,可以用after + 动名词的完成时来表示第一个动作(正式用法,口语一般不用)
+
+```
+After having been intructed to drive out of town, I began to acquire confidence.   在被指示驾驶出城镇后,我开始有了信心.
+```
+
+在动词不定式中语态为被动语态时,to be往往可以省略
+
+```
+I want the bicycle repaired.  我想有人能够把这辆自行车给修好.(与want组成的不定式被动语态中,通常希望别人来完成这个动作)
+```
 
 
 
+##### enjoy和entertain和amuse的区别
+
+enjoy表示喜欢,享受...之乐,欣赏  
+
+> Enjoy lifetime!  享受生活吧.
+
+entertain表示娱乐,请客等
+
+> Entertain yourself.  自娱自乐
+
+amuse表示被...逗乐等
+
+> She was amused by this story.  她被这个故事逗乐了.
+
+##### 短语结构
+
+let us suppose that ...  让我们假设...
 
 
 
