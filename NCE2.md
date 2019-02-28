@@ -654,7 +654,7 @@ wave sb off/goodbye    向某人挥手告别
 - afford to do sth: 有能力去做某事
 - look sth up: 查阅
 - look (sb) up: 拜访
-- in a adj. volice: 以什么样的语气说
+- in a adj. voice: 以...的语气说
 
 
 
@@ -1524,9 +1524,9 @@ call up sb	打电话给某人
 
 ##### 短语结构
 
-picked sb up		接某人
+pick sb up	接某人
 
-picked sth up	捡起...
+pick sth up	捡起...
 
 # Lesson 35
 
@@ -1705,7 +1705,7 @@ got a shock  大吃一惊
 
 It is a real shock to hear that  听到这些令我感到震惊  
 
-almost inmediately  紧接着,随即
+almost immediately  紧接着,随即
 
 
 
@@ -2890,7 +2890,9 @@ at a cost of ...   花费...的价格
 
 put ... right   校正
 
-hundreds and thousands of .../thousands and thousands of ...   成千上万的
+hundreds and thousands of ...成百上千的
+
+thousands and thousands of ...   成千上万的
 
 
 
@@ -3003,7 +3005,7 @@ Main knowledge
    ```
    委婉的请求转述用动词不定式
    'Would you pass the book to me, please?' she said.
-   She asked me to pass the book to me.
+   She asked me to pass the book to her.
    ```
 
 2. not的位置
@@ -3127,8 +3129,6 @@ accept表示接受,同意,及物动词
 
 ##### 短语结构
 
-let ... off  绕过,从轻处理
-
 hold up   阻碍
 
 dress up  精心打扮,装扮(成...)
@@ -3164,11 +3164,11 @@ Main knowledge
 
 形式: have + 名词/代词 + done
 
-当have成为了完全动词时,助动词用do/did
+当have成为了完全动词时,疑问句助动词用do/did
 
 ##### 集合名词
 
-集合名词指的是当在表示一个集体的名词时,例如family,team,如果要强调作为整体的集体,动词用单数,如果要强调组成集体的每个人,动词用复数
+集合名词指的是当在表示一个集体的名词时,例如audience,team,如果要强调作为整体的集体,动词用单数,如果要强调组成集体的每个人,动词用复数
 
 ##### 短语动词
 
@@ -3281,17 +3281,17 @@ Main knowledge
 
 ##### 反义疑问句
 
-反义疑问句是由陈述句加简略疑问句组成,前面肯定句,后面用否定句;前面否定句,后面用肯定;简略疑问句一般由陈述句中的助动词组成
+反义疑问句是由陈述句加简略疑问句组成,前面肯定句,后面用否定句;前面否定句,后面用肯定;简略疑问句一般以陈述句中的助动词开头
 
 ```
-She is a nurse, isn't she?    她是一位护士,不是吗?
-No, she is a airhostess		  不是的,她是一位空姐.
+She is a nurse, isn't she?  她是一位护士,不是吗?
+No, she is a airhostess.  不是的,她是一位空姐.
 
-You didn't write a word, did you?   	你一个字都没写,是吗?
-No, not at all.							是的,我一个字也没写.
+You didn't write a word, did you?  你一个字都没写,是吗?
+No, not at all.  是的,我一个字也没写.
 
-He doesn't say very much, does he?		他没有说太多,对吗?
-No, he doesn't. 						是的,他没有说太多.
+He doesn't say very much, does he?  他没有说太多,对吗?
+No, he doesn't.  是的,他没有说太多.
 ```
 
 
@@ -3336,7 +3336,7 @@ Main knowledge
 被动语态可以用于介词+动名词的结构中,如果一个动作发生在前一个动作发生在后,可以用after + 动名词的完成时来表示第一个动作(正式用法,口语一般不用)
 
 ```
-After having been intructed to drive out of town, I began to acquire confidence.   在被指示驾驶出城镇后,我开始有了信心.
+After having been instructed to drive out of town, I began to acquire confidence.  在被指示驾驶出城镇后,我开始有了信心.
 ```
 
 在动词不定式中语态为被动语态时,to be往往可以省略
@@ -3364,6 +3364,302 @@ amuse表示被...逗乐等
 ##### 短语结构
 
 let us suppose that ...  让我们假设...
+
+be supposed to do ... 应该做.../被期望做...
+
+
+
+# Lesson 70
+
+Main knowledge
+
+- 与形容词连用的介词
+
+##### 与形容词连用的介词
+
+形容词大多有自己固定搭配的介词,有些形容词可以和不同的介词搭配
+
+**与for连用的形容词**
+
+|       搭配        |   释义    |
+| :---------------: | :-------: |
+|     eager for     |   渴望    |
+|    enough for     |   足够    |
+|     ready for     |   预备    |
+|     sorry for     | 遗憾,抱歉 |
+|    famous for     |   出名    |
+|      fit for      |  适合的   |
+| grateful for(to)  | 因...感激 |
+| qualified for(in) | 能胜任的  |
+|  responsible for  | 对...负责 |
+|  sufficient for   |  充足的   |
+| thankful  for(to) |  感谢的   |
+|     valid for     |  有效的   |
+
+**与with连用的形容词**
+
+|      搭配       |    释义     |
+| :-------------: | :---------: |
+|  angry with sb  |    生气     |
+|  busy with(at)  |    忙于     |
+|  content with   |    满足     |
+|  popular with   |    流行     |
+| consistent with |  与...一致  |
+|  familiar with  |  对...满足  |
+|  patient with   | 为...所喜爱 |
+
+##### 与of连用的形容词
+
+|       搭配       |     释义      |
+| :--------------: | :-----------: |
+|    afraid of     |     害怕      |
+|     ahead of     |   在...前面   |
+|     aware of     | 意识到,察觉到 |
+| capable of(with) |   有能力的    |
+|    careful of    |    小心的     |
+|    certain of    |   当然,确信   |
+|   conscious of   |   意识到的    |
+|    envious of    |    妒忌的     |
+|     fond of      |    爱好的     |
+|    guilty of     |    有罪的     |
+|   ignorant of    |   不了解的    |
+|  independent of  |    独立的     |
+|    jealous of    |    妒忌的     |
+|     kind of      | 仁慈的,感激的 |
+|     north of     |     北方      |
+|     east of      |     东方      |
+|     south of     |     南方      |
+|     west of      |     西方      |
+|     short of     |      短       |
+|      shy of      |     害羞      |
+|     sure of      |     确信      |
+|    worthy of     |    值得的     |
+
+**与to连用的形容词**
+
+|      搭配      |     释义      |
+| :------------: | :-----------: |
+|    close to    |    靠近...    |
+|  contrary to   |   与...相反   |
+|    cruel to    |   对...残忍   |
+|    dear to     |  对...很重要  |
+|    equal to    |   与...相等   |
+|  faithful to   |    忠于...    |
+|    fatal to    |   对...致命   |
+|   harmful to   |   对...有害   |
+|  identical to  |   与...相同   |
+| indifferent to |  对...不关心  |
+|  inferior to   |    不如...    |
+|   liable to    |  对...有义务  |
+|     new to     | 对...没有经验 |
+|   obvious to   |   对...清除   |
+|   polite to    |  对...有礼貌  |
+|  previous to   |    先于...    |
+|  sensitive to  |   对...敏感   |
+|    rude to     |   对...粗鲁   |
+|   useful to    |   对...有用   |
+|   similar to   |   与...相似   |
+
+**与at连用的形容词**
+
+|      搭配       |     释义      |
+| :-------------: | :-----------: |
+|     good at     |    善于...    |
+|     bad at      |    不善于     |
+|    clever at    |    擅长的     |
+|  expert at(in)  |  能熟练做...  |
+|  angry at sth   |     生气      |
+|  efficient at   |   能胜任的    |
+|  indignant at   | 对...感到愤慨 |
+| quick at(about) |    很快的     |
+|     sad at      |  为...而悲伤  |
+|     slow at     |   对...迟钝   |
+| skillful at(in) |    熟练的     |
+
+**与from连用的形容词**
+
+|      搭配      |     释义      |
+| :------------: | :-----------: |
+|   away from    |     远离      |
+| different from |     不同      |
+|    far from    |     远离      |
+|   safe from    | 没有...的危险 |
+
+**与in连用的形容词**
+
+|     搭配     |    释义     |
+| :----------: | :---------: |
+| fortunate in | 于...很幸运 |
+|  honest in   | 于...很诚信 |
+|   weak in    |  在...薄弱  |
+| deficient in |   缺少的    |
+
+**与on连用的形容词**
+
+|     搭配     |   释义    |
+| :----------: | :-------: |
+| dependent on | 依赖于... |
+|  intent on   | 专心于... |
+|   keen on    | 热心于... |
+
+**与about连用的形容词**
+
+|        搭配         |   释义    |
+| :-----------------: | :-------: |
+|    curious about    | 对...好奇 |
+| doubtful about(of)  |   怀疑    |
+|     right about     | 在...正确 |
+|    uneasy about     |   担忧    |
+| enthusiastic about  | 对...热心 |
+| reluctant about(to) |  勉强的   |
+
+
+
+##### 短语结构
+
+wander around ...   在...闲逛
+
+wander along/across   蜿蜒曲折
+
+bow to/before sb   向某人鞠躬
+
+be sure of oneself   有自信心
+
+be unaware of ...  没有察觉,没意识到...
+
+break into ...  (控制不住地)突然发出...
+
+charge at ... 向...攻击
+
+look on 旁观
+
+out of the way  不挡路,不碍事
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
