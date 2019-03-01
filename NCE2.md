@@ -2905,7 +2905,7 @@ Main knowledge
 - great和big的区别
 - soil和ground的区别
 
-##### 过去完成进行时时
+##### 过去完成进行时
 
 过去完成进行时表示在过去的某一时间之前,一个动作一直在发生,并且有了结果
 
@@ -3537,11 +3537,43 @@ out of the way  不挡路,不碍事
 
 
 
+# Lesson 71
 
+Main knowledge
 
+- be of + 名词作形容词
+- 虚拟语气的倒装
 
+##### be of + 名词作形容词
 
+'be of + 名词' 可以表示人或物的特征,相当于be + 形容词
 
+```
+Big Ben is not only of immense size, but is extremely accurate as well.
+'大本'钟不仅外型非常大,而且走时非常准确
+```
+
+##### 虚拟语气的倒装
+
+虚拟语气的倒装是将if省略,将助动词提前
+
+```
+没有倒装:
+If the houses of parliament had not been burned down, the great clock would never have been erected.
+如果议会大厦没有被大火烧毁,这架大钟将永远也不会被建起来  
+
+倒装:
+Had not the houses of parliament been burned down, the great clock would never have been erected.
+翻译同上
+```
+
+##### 短语结构
+
+takes its name from ...   以...命名
+
+burn down  烧毁
+
+slow...down   把...弄慢
 
 
 
