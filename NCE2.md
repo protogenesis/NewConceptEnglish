@@ -3577,6 +3577,26 @@ slow...down   把...弄慢
 
 
 
+# Lesson 72
+
+Main knowledge
+
+- 复习
+
+##### 短语动词
+
+burst into tears   泪如泉涌
+
+burst out   爆发
+
+average height/build   中等个子
+
+following sb's footsteps   步某人的后尘,跟随某人的脚步
+
+
+
+
+
 
 
 
