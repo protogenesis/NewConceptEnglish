@@ -3591,7 +3591,7 @@ burst out   爆发
 
 average height/build   中等个子
 
-following sb's footsteps   步某人的后尘,跟随某人的脚步
+following sb's footsteps   步某人的后尘,跟随某人的脚步.
 
 
 
