@@ -3595,6 +3595,20 @@ following sb's footsteps   步某人的后尘,跟随某人的脚步.
 
 
 
+# Lesson 73
+
+##### 短语结构
+
+put to shame by sb   使某人感到羞愧
+
+in the meantime   在...期间,在此时
+
+for the meantime   眼下,当前
+
+as far as ...  最多到这种程度
+
+
+
 
 
 
