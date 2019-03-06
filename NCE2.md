@@ -3607,9 +3607,37 @@ for the meantime   眼下,当前
 
 as far as ...  最多到这种程度
 
+shame on you!  不知羞耻
+
+set up a record for sb.  为某人创造了一项纪录
+
+on the point of ...   即将,正要
 
 
 
+# Lesson 74
+
+Main knowledge
+
+- 与get组成的动词短语
+
+##### 与get组成的动词短语
+
+getting on ...  进展
+
+get on with 相处;继续
+
+get off   滚开;取下;出发;逃脱(惩罚);
+
+get over  恢复;越过;结束(某件不情愿的事)
+
+get through  穿过,通过,用光
+
+##### 短语动词
+
+be in the limelight/be on the limelight  公众关注的焦点
+
+be hard on sb.  对...过分严厉
 
 
 
