@@ -3637,7 +3637,7 @@ get through  穿过,通过,用光
 
 be in the limelight/be on the limelight  公众关注的焦点
 
-be hard on sb.  对...过分严厉.
+be hard on sb.  对...过分严厉
 
 
 
