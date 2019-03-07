@@ -2397,7 +2397,7 @@ rise单独使用,表示太阳升起,起床等  过去式: rose   过去分词: r
 
 lay表示放置,准备  过去式/过去分词: laid
 
-lie表示处于,躺时  过去式: lay  过去分词: lain 
+lie表示处于...的状态,躺时  过去式: lay  过去分词: lain 
 
 lie表示说谎时  过去式/过去分词: lied
 
@@ -3640,6 +3640,57 @@ be in the limelight/be on the limelight  公众关注的焦点
 be hard on sb.  对...过分严厉
 
 
+
+# Lesson 75
+
+Main knowledge
+
+- sign和signal的区别
+- 与turn组成的短语
+
+- 可以表示'变成'的一些动词
+
+##### sign和signal的区别
+
+两者作名词都有信号的意思
+
+sign一般表示可见的标记等
+
+signal一般表示不可见的信号,电波等
+
+##### 与turn组成的短语
+
+turn into   将...变成
+
+turn out   成为,转为
+
+turn in   上交
+
+turn up  发生,出现
+
+##### 可以表示'变成'的一些动词
+
+grow: 强调过程,逐渐
+
+turn: 将(状态,性质)改变成...
+
+go: 变得...  (通常是不好的状态)
+
+get: 成为(某种状态)
+
+come:  成为,实现,达到
+
+fall:  变成...的状态
+
+##### 短语动词
+
+stamp ones feet    跺脚
+
+on/at the scene    在现场
+
+by means of ...    通过...的手段
+
+It is no long before ...   不久
 
 
 
