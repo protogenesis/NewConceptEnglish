@@ -62,8 +62,6 @@
 + 与现在完成时连用的时间标志词
 + 同位语
 
----
-
 ##### 现在完成时
 
 现在完成时表示过去某个时间发生的事情与现在有某种联系,或者这个事情还会一直持续下去
@@ -78,11 +76,13 @@
 
 同位语一般用逗号相连,后面的对前面的名词进行修饰
 
----
-
 ##### trip与journey的区别
 
-两者都是表示旅行,trip表示短距离的,journey表示远距离的旅行
+两者都是表示旅行
+
+trip表示短距离的
+
+journey表示远距离的旅行
 
 ##### have been与have gone的区别
 
@@ -90,9 +90,9 @@
 
 ##### receive与accept的区别
 
-receive表示被动的收到,accept表示主观的接收
+receive表示被动的收到
 
----
+accept表示主观的接收
 
 ##### 短语结构
 
@@ -154,8 +154,6 @@ spare parts: 备件
 3. 以辅音字母+y结尾的需要将y变成i再加ed
 4. 重读闭音节的动词需要双写末尾再加ed
 5. 不规则变化
-
-------
 
 >  **以句号结尾表示一句话,如果中间用逗号相连说明话还没说完,连接的时候一定要有连接词**
 
@@ -305,8 +303,6 @@ make一般解释为: 做出,制造,做; build一般解释为建筑方面的建�
 ##### grow + adj.
 
 grow加形容词通常表示变得怎么怎么样
-
----
 
 >  物质名词以en结尾变成形容词后一般表示材料,质地.
 
@@ -545,8 +541,6 @@ part一般指装卸货物的港口,harbour一般只可以提供避风,停留的�
 
 3. 复数名词以s结尾的只要加'
 
----
-
 有时两种双重所有格都可以使用,但是所表达的意思不同:
 
 > For example:
@@ -607,9 +601,9 @@ both of用在两个人或事物上 (用在名词前of可省略,用在代词前�
 
 reply作为及物动词时后面+ to + sb
 
-answer作为及物动词时后面+ sb
+answer作为及物动词时后面+ sb   
 
----
+
 
 >  副词on紧跟在动词后表示向前,继续...的意思
 
@@ -760,8 +754,6 @@ have有两种用法,一种是做助动词,一种是实义动词
 
 ​	在美式英语中,一般用do/does/did与have构成疑问句和否定句
 
----
-
 ##### have与have got可以互换的几种情况
 
 1. 表示拥有
@@ -801,8 +793,6 @@ may和might的几种用法
 否定句中不用might,could
 
 can最常用,也最不正式,could一般用在不能确定是否得到肯定回答的时候,同时could也是can的过去式,might是may的过去式
-
----
 
 ##### 经典短语结构和短语:
 
@@ -1012,8 +1002,6 @@ it is一般用来指天气,时间,有时用作形式主语
 
 upset指事情发生后,感到不安,nervous指事情发生前
 
----
-
 ##### 短语
 
 manage to do sth: 成功做成某事
@@ -1047,10 +1035,6 @@ sympathize with: 同情... (v + prep.)
 >
 > 当either or/neither nor连接两个主语时,谓语动词与后一个主语保持一致
 
-
-
----
-
 ##### learn和study的区别
 
 learn强调学会,学到, study强调学习的动作和过程
@@ -1058,8 +1042,6 @@ learn强调学会,学到, study强调学习的动作和过程
 ##### several和some的区别
 
 several只能修饰可数的,some可以修饰可数/不可数名词
-
----
 
 当句子中存在多个修饰词时,最后两个用and连接,其他的用逗号连接
 
@@ -1182,8 +1164,6 @@ sometime: 某个时刻
 
 sometimes: 有时候
 
----
-
 ##### 短语:
 
 leap out of: 从...跳出来
@@ -1275,7 +1255,7 @@ used to do  过去常常做某事
 
 used for 用于...
 
----
+
 
 by + 时间(段)表示截止到...
 
@@ -3216,8 +3196,6 @@ was able to表示事情的可能性,并且成功做到了(强调做成的几率)
 
 manage to do 表示经过了一些困难后,成功的做到了(强调做成的不容易性)
 
----
-
 ##### say和tell和speak和talk的区别
 
 say后面不直接加间接宾语(也就是人),要加的话加to + sb,有据说,表达,送别,诵读的含义
@@ -3693,6 +3671,39 @@ by means of ...    通过...的手段
 It is no long before ...   不久
 
 
+
+# Lesson 76
+
+Main knowledge
+
+- 现在完成时中时间状语从句动词和时态不同造成的区别
+- between和among表示...之中的区别
+
+##### 现在完成时的时间状语从句中时态不同造成的区别
+
+时间状语从句中要区分动词是短暂动词(come,return等)还是持续动词(work,watch等)
+
+> I have learnt English ten years since I came back.  自从我回来之后已经学了十年的英语(从句中的came是短暂动词)
+
+> I have learnt English ten years since I have worked in this company.  自从我在这家公司上班以来,已经学了十年的英语.(上班后开始)
+
+> I have learnt English ten years since I worked in this company.  自从我离开这家公司后已经学了十年英语.(离开后开始)
+
+##### between和among在表示...之中的区别
+
+between常常用在两者之间
+
+> 当表示两者之间的相互关系时,between可以用于三者或以上的名词前
+>
+> ```
+> The village lies between a river, a moutain and a road.  这个村子位于一条河,一座山和一条路中间.
+> ```
+
+among常常用在三者或三者以上之中
+
+##### 短语结构
+
+be in process of doing sth.  做某事的过程中
 
 
 
