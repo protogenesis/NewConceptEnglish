@@ -3707,11 +3707,49 @@ be in process of doing sth.  做某事的过程中
 
 
 
+# Lesson 77
 
+Main knowledge
 
+- 非限定性定语从句的关系代词
 
+##### 非限定性定语从句的关系代词
 
+非限定性定语从句指的是句子中的定语从句是独立的一部分,前后都有逗号分隔开,作用是提供补充信息,往往可以省略
 
+非限定性定语从句中的关系代词如果是人的话用who/whom,如果是物的话用which,两者都不能用that做关系代词
+
+##### wax和candle的区别
+
+两者都表示蜡
+
+wax是不可数名词
+
+candle是可数名词
+
+##### B.C和A.D的区别
+
+B.C.为before Christ(公元前的缩写)指的是公元前
+
+A.D为anno Domini指的是公元(公元后)
+
+公元即是耶稣诞生的日子
+
+##### skin和leather和complexion的区别
+
+skin指的是皮肤
+
+leather指的是皮革
+
+complexion指的是肤色
+
+##### 短语动词
+
+the only way to do ...  做某事的唯一方式是...
+
+die of ...   因(患) ...而死
+
+sb/sth prove to be sth ...  ...被发现/证实...
 
 
 
