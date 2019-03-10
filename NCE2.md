@@ -3753,6 +3753,57 @@ sb/sth prove to be sth ...  ...被发现/证实...
 
 
 
+# Lesson 78
+
+Main knowledge
+
+- 与keep组成的短语
+- 独立主格
+
+##### 与keep组成的短语
+
+keep on 持续,继续
+
+keep off  不靠近,从...离开
+
+keep out   (使)...不进入
+
+keep in   (使)...待在,关住
+
+keep up   保持,继续下去
+
+keep away   避开
+
+keep up with  跟上...
+
+##### 独立主格
+
+独立主格指的是句子中的某一部分有自己的逻辑主格和逻辑谓语,和主句不影响
+
+```
+I had all the usual symptoms of someone giving up smoking. 
+戒烟的人通常表现的一切征兆,我都有...
+在这里someone giving up smoking是独立主格结构,做of的宾语,someone是逻辑主语,giving up smoking是逻辑谓语
+```
+
+##### 短语动词
+
+make no effort to do sth   毫不掩饰,毫不费力去做某事
+
+make great effort to do sth   尽全力做某事
+
+be entitled to do sth   有权做某事
+
+sth entitled ...   (被)名为...
+
+urge sb to do sth   力劝某人做某事
+
+
+
+
+
+
+
 
 
 
