@@ -3662,7 +3662,7 @@ fall:  变成...的状态
 
 ##### 短语动词
 
-stamp ones feet    跺脚
+stamp one's feet    跺脚
 
 on/at the scene    在现场
 
@@ -3799,6 +3799,52 @@ sth entitled ...   (被)名为...
 urge sb to do sth   力劝某人做某事
 
 
+
+# Lesson 79
+
+Main knowledge
+
+- 倒装句
+- 与take组成的短语
+
+##### 倒装句
+
+倒装句的作用是用来加强语气,多用于正式文体
+
+用倒装句的情况通常为: 
+
+1. 句首为否定或近似否定的副词(never, little, hardly ...)
+2. 句首为only构成的词组
+
+倒装句的结构是: 副词 + 助动词 + 主语 + 句子其他部分
+
+#####  与take组成的短语
+
+take off  脱下(衣服),起飞 (在口语中可以用来表示模仿)
+
+take after  跟某人很像
+
+take up  占据,开始(从事,产生兴趣)
+
+take to doing sth 沉湎于某事
+
+take in  欺骗
+
+take down  记下
+
+take over   接管
+
+##### 短语动词
+
+take charge of sb  照顾某人
+
+touch down  着陆
+
+on board   在/搭乘(交通工具)
+
+frightened of ... 害怕...
+
+plant sb on sth ... 栽赃
 
 
 
