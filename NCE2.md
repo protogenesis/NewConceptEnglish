@@ -378,7 +378,7 @@ grow加形容词通常表示变得怎么怎么样
 + try to do sth. 尽力去做某事
 + play the piano/乐器名.  弹/奏..乐器
 + play music on + 乐器名.  在..上演奏
-+ be made of: 用什么制造(可以看得出材料,只有一种材料)
++ be made of: 用什么制造(可以看得出材料,指原材料没有发生化学上的变化)
 + be made from: 用什么制造(多种材料制成)
 + be made in: 在什么地方制造
 + be made by: 被某人制造
@@ -1679,7 +1679,7 @@ as if/as though  好像,犹如
 
 
 
-##### 短语动词
+##### 短语结构
 
 got a shock  大吃一惊
 
@@ -1701,7 +1701,7 @@ Main knowledge
 
 在转述一般疑问句时通常用whether或者if来连接引语,whether比if的程度稍大
 
-##### 短语动词
+##### 短语结构
 
 to have an operation on...   动手术
 
@@ -3834,7 +3834,7 @@ take down  记下
 
 take over   接管
 
-##### 短语动词
+##### 短语结构
 
 take charge of sb  照顾某人
 
@@ -3847,6 +3847,46 @@ frightened of ... 害怕...
 plant sb on sth ... 栽赃
 
 
+
+# Lesson 80
+
+Main knowledge
+
+- 与on构成的介词短语
+
+##### 与on构成的介词短语
+
+ on business  因公,出差
+
+on foot  步行
+
+on duty  值班
+
+on the whole   总的看来
+
+on show/display   在展示着
+
+on fire  着火
+
+on purpose  有意的
+
+on the average  平均,通常
+
+on any account   无论如何
+
+on second thought(s)重新考虑
+
+##### 短语结构
+
+in all  总共
+
+of all time   有史以来
+
+quite a few  相当多
+
+a display of ...   ...的展示
+
+for the benefit of ... 为了...的利益
 
 
 
