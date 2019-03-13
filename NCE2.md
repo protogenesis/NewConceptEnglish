@@ -3890,125 +3890,44 @@ for the benefit of ... 为了...的利益
 
 
 
+# Lesson 81
 
+Main knowledge
 
+- clear与clean的区别
 
+##### clear与clean的区别
 
+两者都有干净的意思但是含义不同
 
+```
+做形容词: 
+The road is clear, we can cross now.  路上现在没车,我们可以过马路了
 
+I think the problem is clear enough.   我认为问题已经足够明确了
 
+Children usually have rather clear eyes.   孩子们通常拥有清澈的双眼
 
+作动词: 
+THe plane was able to clear the moutains.  这架飞机成功的飞过了山头
+```
 
+```
+作形容词: 
+This table is not not very clean.  这张桌子不是很干净
 
+作动词:
+Clean the table and then throw the rubbish outside please.  请把桌子擦干净然后将垃圾扔出去
+```
 
+##### 短语动词
 
+pork shoulder   猪肘子
 
+shoulder to shoulder 肩并肩,携手
 
+here and there   到处
 
+stand to attention  立正
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+stand and ease  稍息
