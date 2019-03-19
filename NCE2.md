@@ -3715,7 +3715,7 @@ Main knowledge
 
 ##### 非限定性定语从句的关系代词
 
-非限定性定语从句指的是句子中的定语从句是独立的一部分,前后都有逗号分隔开,作用是提供补充信息,往往可以省略
+非限定性定语从句指的是句子中的定语从句是独立的一部分,前后都有逗号分隔开,作用是提供补充信息,可以省略
 
 非限定性定语从句中的关系代词如果是人的话用who/whom,如果是物的话用which,两者都不能用that做关系代词
 
@@ -3783,7 +3783,7 @@ keep up with  跟上...
 ```
 I had all the usual symptoms of someone giving up smoking. 
 戒烟的人通常表现的一切征兆,我都有...
-在这里someone giving up smoking是独立主格结构,做of的宾语,someone是逻辑主语,giving up smoking是逻辑谓语
+在这里someone giving up smoking是独立主格结构,做of的宾语,someone是逻辑主语,giving是逻辑谓语
 ```
 
 ##### 短语动词
@@ -3914,7 +3914,7 @@ THe plane was able to clear the moutains.  这架飞机成功的飞过了山头
 
 ```
 作形容词: 
-This table is not not very clean.  这张桌子不是很干净
+This table is not very clean.  这张桌子不是很干净
 
 作动词:
 Clean the table and then throw the rubbish outside please.  请把桌子擦干净然后将垃圾扔出去
@@ -3931,3 +3931,35 @@ here and there   到处
 stand to attention  立正
 
 stand and ease  稍息
+
+
+
+# Lesson 82
+
+Main knowledge
+
+- 动词不定式中的时态区别
+
+##### 动词不定式中的时态区别
+
+当动词不定式的时态为:
+
+1. 现在完成时: 表示动作在谓语动词之前已经完成
+2. 一般现在时: 表示动作和谓语动词几乎同时发生
+3.  一般进行时: 表示动作在谓语动词发生的这个动作之时正在发生
+
+> ```
+> 不定式的完成时与表示意图,希望等的动词连用时有独特的含义
+> 
+> I intended to have invited you, but I forgot to do so. 
+> 我本打算邀请你的, 可是我忘记了.
+> 
+> I hope to have finished by 12.   我希望在12点之前就已经完成.
+> ```
+
+##### 短语动词
+
+be peculiar to ...   为...所特有的
+
+at a depth of ...   ...的深度
+
