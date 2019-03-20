@@ -3963,3 +3963,41 @@ be peculiar to ...   为...所特有的
 
 at a depth of ...   ...的深度
 
+
+
+# Lesson 83
+
+Main knowledge
+
+- 状语从句的省略
+
+##### 状语从句的省略
+
+状语从句满足以下两个条件时,从句主语和动词可省略
+
+1. 从句中含有be动词
+2. 主句和从句主语为同一个人
+
+```
+Though a little suspicious, his teacher eventually let him in.
+虽然有一点怀疑,他的老师还是让他进来了.  (从句和主句的主语都是老师)
+```
+
+##### temper和mood的区别
+
+temper指脾气,或坏脾气
+
+mood指心情
+
+当temper指心情时,可以和mood互换
+
+##### 短语动词
+
+make sb suspicious.  让某人怀疑
+
+be suspicious of ...   对...怀疑
+
+be in the mood of ... 对...感兴趣
+
+
+
