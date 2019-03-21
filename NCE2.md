@@ -4001,3 +4001,39 @@ be in the mood of ... 对...感兴趣
 
 
 
+# Lesson 84
+
+Main knowledge
+
+- 一般将来时will和be going to的区别
+
+- how long和how soon的区别
+
+##### 一般将来时will和be going to的区别
+
+1. be going to: 明显迹象,will: 预测,相信某事将要发生
+2. be going to: 马上会发生,will: 时间可近可远
+3. be going to不正式
+4. be going to: 计划,打算,will: 意愿
+
+##### how long和how soon的区别
+
+how long 强调时间的长短
+
+how soon 强调时间的快慢
+
+##### 短语动词
+
+be due to do sth   预计...做某事
+
+due to sth   由于...,因为
+
+on strike   罢工
+
+relieve sb from ... 让某人从...中解脱出来
+
+to one's relieve  令某人欣慰的是...
+
+to some extent/to a certain extent  从某种程度上来说
+
+volunteer to do sth  志愿做某事
