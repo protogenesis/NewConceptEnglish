@@ -4037,3 +4037,31 @@ to one's relieve  令某人欣慰的是...
 to some extent/to a certain extent  从某种程度上来说
 
 volunteer to do sth  志愿做某事
+
+
+
+# Lesson 85
+
+##### 短语动词
+
+inform sb that/of/about   (正式)通知某人某事
+
+inform against/on   检举,告发
+
+contribute to ...  向...投稿/促进...
+
+contribute towards ... 为...捐款
+
+make a contribution to ...  对...做贡献
+
+what a coincidence!  好巧啊!
+
+lose patience with ... 对...失去耐心
+
+try one's patience  考验某人的耐心
+
+remember one for sth  铭记某人的...
+
+in one's honour  为向...表示敬意
+
+devote oneself to doing/sth   致力于...
