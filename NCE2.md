@@ -4065,3 +4065,34 @@ remember one for sth  铭记某人的...
 in one's honour  为向...表示敬意
 
 devote oneself to doing/sth   致力于...
+
+
+
+# Lesson 86
+
+##### enough和fairly的区别
+
+enough表示足够的(具有某种目的的含义)
+
+fairly表示相当的
+
+##### 短语动词
+
+use up  用尽
+
+swing round  突然转身
+
+to sit on a swing   荡秋千
+
+sth be in full swing   ...正在火热进行中
+
+desperate to do sth ...   十分想做某事
+
+in desperation    绝望中
+
+drift off/drift into sleep   缓缓入睡
+
+be dismayed at sth   对...感到沮丧
+
+with/in dismay  沮丧的
+
