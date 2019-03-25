@@ -4096,3 +4096,24 @@ be dismayed at sth   对...感到沮丧
 
 with/in dismay  沮丧的
 
+
+
+# Lesson 87
+
+Main knowledge
+
+- 陈述句加问号表示的问句
+
+##### 陈述句加问号表示的问句
+
+陈述句加问号变成疑问句,句子结构不变,只需在句尾加问号,读升调  (很少用)
+
+##### 短语动词
+
+at one time   曾经,一度
+
+commit mistakes deliberately   明知故犯
+
+commit oneself   承诺
+
+suggest doing sth   建议做某事
