@@ -3022,7 +3022,7 @@ sense of humour  幽默感
 
 - 虚拟语气
 - 由suggest,insist等组成的宾语从句-虚拟语气
-- 有draw与介词组成的动词短语
+- draw与介词组成的动词短语
 
 ##### 虚拟语气(第三类条件句)
 
@@ -4117,3 +4117,35 @@ commit mistakes deliberately   明知故犯
 commit oneself   承诺
 
 suggest doing sth   建议做某事
+
+
+
+# Lesson 88
+
+##### 与run组成的短语
+
+run into/run across   碰见某人
+
+run out of ...   用尽...
+
+run over   在...驶过
+
+run in  试车(汽车,发动机)
+
+##### 短语动词
+
+lose heart    丧失信心
+
+fall into a trap   落入圈套
+
+sth be in danger of collapse  ...有坍塌的危险
+
+drill in sth   反复练习某事
+
+prove yourself   证明你自己
+
+enable sb to do sth   使某人能够做某事
+
+still have a long way to go    仍然有很长的一段路要走
+
+cause ... to ...  造成...的影响
