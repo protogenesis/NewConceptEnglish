@@ -3565,7 +3565,7 @@ Main knowledge
 
 burst into tears   泪如泉涌
 
-burst out   爆发
+burst out doing   突然...起来
 
 average height/build   中等个子
 
@@ -4149,3 +4149,21 @@ enable sb to do sth   使某人能够做某事
 still have a long way to go    仍然有很长的一段路要走
 
 cause ... to ...  造成...的影响
+
+
+
+# Lesson 89
+
+- queue和row的区别
+
+##### queue和row作为名词的区别
+
+queue表示一列,竖的
+
+row表示一行,横的
+
+##### 短语动词
+
+got round   (消息)传开来
+
+queue for ...  为...排队
