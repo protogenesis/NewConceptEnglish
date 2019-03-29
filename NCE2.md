@@ -4167,3 +4167,53 @@ row表示一行,横的
 got round   (消息)传开来
 
 queue for ...  为...排队
+
+jump a queue  插队
+
+at the beginning of ...  在...的开头
+
+you need not bother to do ...   不必麻烦你去做某事
+
+
+
+# Lesson 90
+
+- 由and连接的并列主语,谓语动词要一致的说明
+
+##### 由and连接的并列主语,谓语动词要一致的说明
+
+并列主语,谓语动词用单数的情况(主要看两个主语是否看成同一个整体):
+
+1. 主语是同一个人
+
+   ```
+   The teacher and author has retired.    这位教师兼作家已经退休了.
+   ```
+
+2. 主语指同一个整体
+
+   ```
+   Fish and chips has always been a favourite dish in Britain.  油煎鱼和炸薯条一直是英国人喜爱的一道菜.
+   ```
+
+3. 有every, each, many a等修饰的单数名词
+
+   ```
+   Many a boy and many a girl likes swimming.
+   ```
+
+##### 短语结构
+
+some factors have caused this ...   造成这个的一些因素是...
+
+sth terrified sb 某事吓到某人
+
+out of one's wits   失去理智
+
+bump into  碰见,撞上
+
+absence of ...   ...的缺乏
+
+protect sb from ... 免受...的侵害
+
+protect sb against ...  抵御...的伤害
