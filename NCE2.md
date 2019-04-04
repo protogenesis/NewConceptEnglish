@@ -4217,3 +4217,52 @@ absence of ...   ...的缺乏
 protect sb from ... 免受...的侵害
 
 protect sb against ...  抵御...的伤害
+
+
+
+# Lesson 91
+
+Main knowledge
+
+- 和make组成的短语动词
+
+##### 和make组成的短语动词
+
+make out   分辨,列出,弄清
+
+make up     编造,打扮
+
+make up for  弥补
+
+make for   靠近,走进
+
+##### 短语动词
+
+spy on sb/sth  刺探/秘密监视...
+
+see sb doing sth   看到某人正在做某事
+
+see sb do sth   看到某人做了某事
+
+tracker dog   警犬
+
+drop in   走访
+
+drop out   逃学
+
+call in   召唤
+
+grown out of ...  (由于长大)抛弃,改掉
+
+keep track of ...   跟踪
+
+lose track of ... 跟丢了
+
+descend from .... 从...掉下来,降落下来
+
+in descending order   降序
+
+in ascending order   升序
+
+
+
