@@ -4266,3 +4266,37 @@ in ascending order   升序
 
 
 
+# Lesson 92
+
+Main knowledge
+
+- 否定前移语句
+- so,neither,nor引导的简短回答
+
+##### 否定前移
+
+在宾语从句中表示否定意思时,通常在主句中使用否定语气,但译成汉语时否定语气仍在宾语从句中
+
+> I don't think that the windows need cleaning.  我认为窗户不需要清理
+
+而不会使用下面这样:
+
+> I think the windows need not cleaning.
+
+##### so,neither,nor引导的简短回答
+
+当前面提到的动作同样适用于某人时,可以使用简短回答
+
+简短回答的构成是:
+
+肯定句: so + 动词 + 主语      (动词需要和前面提到的动词时态保持一致)
+
+否定句: neither/nor + 动词 + 主语    (动词需要和前面提到的动词时态保持一致)
+
+> He will not attend that party and neither will I.   他不会参加那个排队,我也不会
+>
+> She passed the exam and so did I.  她通过了那场考试,我也通过了
+
+##### 短语动词
+
+fast asleep  熟睡
