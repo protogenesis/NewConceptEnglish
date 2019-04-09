@@ -4300,3 +4300,43 @@ Main knowledge
 ##### 短语动词
 
 fast asleep  熟睡
+
+
+
+# Lesson 93&94
+
+- 长度单位换算
+
+##### 长度单位换算
+
+Inch(英寸) = 2.54cm
+
+foot(英尺) = 30.48cm
+
+yard(码) = 0.9m
+
+mile(英里) = 1609m
+
+短语动词
+
+support sb to do sth   支持某人做某事
+
+take ... to pieces      把...拆卡
+
+put ... together         把...装配起来
+
+make one's home    定居
+
+instruct sb in sth  在...方面指导某人
+
+be reluctant to do sth   极不情愿做某事
+
+be accustomed to doing   习惯做某事
+
+line up   排成行/排队
+
+compete for sth   为...竞争
+
+compete with sb  和某人竞争
+
+compete against/with each other   相互竞争
