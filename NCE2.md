@@ -4340,3 +4340,21 @@ compete for sth   为...竞争
 compete with sb  和某人竞争
 
 compete against/with each other   相互竞争
+
+
+
+# Lesson 95&96
+
+##### 短语动词
+
+set on fire    放火
+
+aim ... at ... 用...瞄准
+
+went on doing  继续做某事(同一件事)
+
+went on to do sth   继续做某事(另一件事)
+
+break out   (战争,动乱)爆发
+
+see sth through rose-coloured spectacles   过于乐观地看待某事
