@@ -339,7 +339,7 @@ grow加形容词通常表示变得怎么怎么样
 + cold fish: 冷漠的人
 + refuse to do sth: 拒绝去做某事
 + strick the hour: 按整点报时
-+ time and time wait for no man: 时不我待
++ time and tide wait for no man: 时不我待
 + strike for: 罢工
 
 
@@ -4358,3 +4358,5 @@ went on to do sth   继续做某事(另一件事)
 break out   (战争,动乱)爆发
 
 see sth through rose-coloured spectacles   过于乐观地看待某事
+
+lay out   铺放,摆设
