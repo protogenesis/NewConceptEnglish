@@ -314,7 +314,7 @@ grow加形容词通常表示变得怎么怎么样
 
 + enter for: 报名参加 (考试,竞赛等活动)
 + neat and tidy: 干净整洁
-+ be interested in:  对某事感兴趣
++ be interested in sth/doing sth:  对某事感兴趣
 
 
 
@@ -338,7 +338,7 @@ grow加形容词通常表示变得怎么怎么样
 
 + cold fish: 冷漠的人
 + refuse to do sth: 拒绝去做某事
-+ strick the hour: 按整点报时
++ strike the hours: 按整点报时
 + time and tide wait for no man: 时不我待
 + strike for: 罢工
 
@@ -1249,11 +1249,11 @@ put/bring sth into effect  让...产生影响
 
 in effect 实际上
 
-used to doing  习惯做某事
+be used to doing  习惯做某事
 
-used to do  过去常常做某事
+used to do sth  过去常常做某事
 
-used for 用于...
+be used for 用于...
 
 
 
@@ -1311,7 +1311,6 @@ the plough/big Dipper 北斗七星
 
 - in sight  在视野范围内
 - out of sight  视野范围之外
-- so...that...  太...以至于
 - like doing sth  喜欢做某事(长期的)
 - like to do  一时想做某事
 - cut down  减少,缩减
@@ -1926,7 +1925,7 @@ be able to do sth without difficulty   能够毫无困难的去做某事
 
 come/get to the point  回到重点
 
-exploreration of ... 	对...的探究
+exploration of ... 	对...的探究
 
 run/get into trouble   陷入困境
 
@@ -2531,7 +2530,7 @@ nothing can be more adj.     没有什么比这更加...
 
 persuade sb to do sth/persuade sb into doing sth   劝说某人做某事
 
-pick up the telephont   接听电话
+pick up the telephone   接听电话
 
 hung up the telephone   挂掉电话
 
@@ -2640,7 +2639,7 @@ during/in the course of ...  在...的过程中
 
 speed up  加速
 
-slow down 
+slow down 减速
 
 
 
@@ -3284,7 +3283,7 @@ insist表示坚持自己,强调  (想象: 有人告诉他做错了,但他坚持�
 
 ##### 短语动词
 
-It is (of) no use doing that ...   做...也是徒劳的的
+It is (of) no use doing that ...   做...也是徒劳的
 
 ``` 
 It was not use pretending that I had not seen him.   假装没有看到他是没有用的.
@@ -3577,7 +3576,7 @@ following sb's footsteps   步某人的后尘,跟随某人的脚步.
 
 ##### 短语结构
 
-put to shame by sb   使某人感到羞愧
+be put to shame by sb   使某人感到羞愧
 
 in the meantime   在...期间,在此时
 
@@ -3946,7 +3945,7 @@ Main knowledge
 
 1. 现在完成时: 表示动作在谓语动词之前已经完成
 2. 一般现在时: 表示动作和谓语动词几乎同时发生
-3.  一般进行时: 表示动作在谓语动词发生的这个动作之时正在发生
+3.  现在进行时: 表示动作在谓语动词发生的这个动作之时正在发生
 
 > ```
 > 不定式的完成时与表示意图,希望等的动词连用时有独特的含义
@@ -3987,7 +3986,7 @@ Though a little suspicious, his teacher eventually let him in.
 
 temper指脾气,或坏脾气
 
-mood指心情
+mood指心情see sb do sth
 
 当temper指心情时,可以和mood互换
 
@@ -3997,7 +3996,7 @@ make sb suspicious.  让某人怀疑
 
 be suspicious of ...   对...怀疑
 
-be in the mood of ... 对...感兴趣
+be in the mood of doing sth  对做某事感兴趣
 
 
 
@@ -4242,7 +4241,7 @@ spy on sb/sth  刺探/秘密监视...
 
 see sb doing sth   看到某人正在做某事
 
-see sb do sth   看到某人做了某事
+see sb do sth   看到某人做某事
 
 tracker dog   警犬
 
@@ -4321,7 +4320,7 @@ mile(英里) = 1609m
 
 support sb to do sth   支持某人做某事
 
-take ... to pieces      把...拆卡
+take ... to pieces      把...拆开
 
 put ... together         把...装配起来
 
@@ -4351,7 +4350,7 @@ set on fire    放火
 
 aim ... at ... 用...瞄准
 
-went on doing  继续做某事(同一件事)
+went on doing sth  继续做某事(同一件事)
 
 went on to do sth   继续做某事(另一件事)
 
