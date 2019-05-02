@@ -145,3 +145,49 @@ be equipped with ...   具有/配备有
 
 don't make a fass    不要大惊小怪的
 
+
+
+# Lesson 4
+
+Main knowledge
+
+- 倍数表示法
+
+##### 倍数表示法
+
+结构:
+
+1. be twice sth.    是...的两倍
+2. N. times as ... as ...  是...的几倍
+3. N. times adj. as ...   是...的几倍+形容词
+
+```
+He is twice my age.    他的年龄比我大一倍.
+
+He is half my tall.    他只有我的一半高.
+
+The corperation produced three times as many cars in 2018 as the year before.
+这家公司生产在2018年生产了比2017年多三倍的车.
+
+His car is three times bigger than mine.   他的车是我的三倍大.
+```
+
+##### 短语和结构
+
+refer to A as B	将A看做是B
+
+regard A as B   	同上
+
+human nature   人之常情
+
+give rise to    导致,造成
+
+in the case of ...   在...情况下
+
+A close mouth catched no flies..  言多必失
+
+sacrifice A to/for B  为B舍弃A
+
+sacrifice A to do B  舍弃A去做B
+
+run a bath   放洗澡水
