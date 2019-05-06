@@ -191,3 +191,106 @@ sacrifice A to/for B  为B舍弃A
 sacrifice A to do B  舍弃A去做B
 
 run a bath   放洗澡水
+
+
+
+# Lesson 5
+
+Main knowledge
+
+- 倒装句
+
+##### 倒装句
+
+1. 完全倒装
+
+   1. 表示时间或方位的状语放句首,如now,then,away,down,up,out,in等
+
+      ```
+      My chance of winning went away.  我失去了赢的机会.
+      
+      倒装:
+      Away went my chance of winning.
+      ```
+
+   2. 地点副词here,there放在句首 (如果主语为代词,则只能使用正常语序)
+
+      ```
+      The train comes here.  火车来了
+      
+      倒装: 
+      Here comes the train.
+      ```
+
+      ```
+      He comes here. 他来这了
+      
+      倒装(主语为代词,使用正常语序):
+      Here he comes.
+      ```
+
+   3. There be句型的倒装
+
+      ```
+      There is/stands a hotel nearby.  附近有家酒店.
+      ```
+
+2. 部分倒装
+
+   1. 具有否定意义的词(组)放句首,如not only,never,seldom,no sooner,little等
+
+      ```
+      I saw little of her recently.  我最近很少见到她.
+      
+      倒装:
+      Little did I see of her recently.
+      ```
+
+   2. Only + 状语(从句)放句首
+
+      ```
+      You can only solve this problem in this way.  你只能通过这种方式解决这个问题.
+      
+      倒装:
+      Only in this way can you solve this problem.
+      ```
+
+   3. So + 形容词/副词/名词词组放句首
+
+      ```
+      The man was so stupid that he could not solve any problem by himself.  那个男人笨到无法自己解决任何问题
+      
+      倒装: 
+      So stupid was the man that he could not solve any problem by himself.
+      ```
+
+   4. If引导的虚拟语气从句中,有had,were,should放在句首
+
+      ```
+      If he were alive today, he would be pleased to see the changes.  如果他今天还活着的话,看到这些改变他会非常高兴的.
+      
+      倒装:
+      Were he alive today, he would be pleased to see the changes.
+      ```
+
+##### 短语结构
+
+inform sb of sth   通知某人某事
+
+go to extremes to do sth  采取极端的手段做某事
+
+run to an extreme of doing sth   同上
+
+provide sth for sb.  为某人提供某物
+
+provide sb with sth.  提供某人某物
+
+Devil's luck.   真倒霉
+
+go to press.   付印
+
+laid off: 停工,解雇
+
+be impatient with sb.  对某人不耐烦
+
+be impatient at sth.  对某事不耐烦
