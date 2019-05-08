@@ -294,3 +294,72 @@ laid off: 停工,解雇
 be impatient with sb.  对某人不耐烦
 
 be impatient at sth.  对某事不耐烦
+
+
+
+# Lesson 6
+
+Main knowledge
+
+- 独立主格
+
+- 构词法
+- 词缀
+
+##### 独立主格
+
+独立主格指的是句子中的某一部分拥有自己的逻辑主语和逻辑谓语,通常通过with,of等介词连接
+
+独立主格中的谓语动词有三种形式:
+
+1. 不定式
+2. 现在分词
+3. 过去分词
+
+独立主格也可以没有动词,由主语+副词/形容词等组成
+
+```
+A large black car roared down the arcade, with its headlights on and its horn blaring.
+一辆亮着前灯,喇叭嘟嘟叫着的黑色大轿车呼啸着停在了拱桥街道旁
+
+its headlight on和its horn blaring为独立主格
+on为副词,blaring为动词现在分词
+```
+
+##### 构词法
+
+英语中有多种构词方式,常见的有
+
+1. 转化(conversion)  ->  ```water: 水``` ```water: 浇水```
+2. 派生(derivasion) -> ```happy``` 加前缀派生出```unhappy```,加后缀派生出```happiness```
+3. 合成(compounding) -> ```classroom``` ```moonlight``` ```sunflower```  ```secondhand```
+
+##### 前缀
+
+常用的表示否定含义的前缀有:
+
+- un-          ```uninportant```	 ```unbelievable```
+- dis-         ```dismiss```                 ```disappear```
+- in-           ```inactivity```          ```inapparent```
+- im-          ```impossible```          ```impolite```
+- ir-            ```irregular```            ```irremovable```
+- il-            ```illogical```             ```illegal```
+
+常用的表示其他含义的有:
+
+- re-          ```repeat```                  ```rediscover```
+- ex-         ```ex-wife```                ```ex-prime minister```
+- bi-          ```bicycle```                ```binoculars```
+- tri-          ```tricycle```             ```tricolor```
+
+##### 短语结构
+
+help ... to ...     随意拿取,窃取
+
+scramble for sth.      (合法的)争夺某物
+
+well-staffed   人员充足的
+
+under-staffed   人员缺乏的
+
+diamonds cut diamonds   山外有山,人外有人
