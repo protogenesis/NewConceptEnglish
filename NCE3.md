@@ -351,6 +351,7 @@ on为副词,blaring为动词现在分词
 - ex-         ```ex-wife```                ```ex-prime minister```
 - bi-          ```bicycle```                ```binoculars```
 - tri-          ```tricycle```             ```tricolor```
+- pre-        ```previous```             ```precollege```
 
 ##### 短语结构
 
@@ -363,3 +364,64 @@ well-staffed   人员充足的
 under-staffed   人员缺乏的
 
 diamonds cut diamonds   山外有山,人外有人
+
+
+
+# Lesson 7
+
+- 后缀
+
+##### 后缀
+
+- 构成名词的常用后缀有:
+  - -er:   ```director```	```teacher```
+  - -or:    ```collector```   ```operator```
+  - -ness:      ```happiness```    ```illness```
+  - -tion:    ```action```    ```operation```
+  - -ment:     ```payment```    ```movement```
+- 构成形容词的常用后缀有:
+  - -ful:      ```helpful```     ```beautiful```
+  - -less:        ```worthless```       ```priceless```
+  - -ish:   ```childish```   ```selfish```
+  - -ive:       ```active```     ```negative```
+  - -like:     ```catlike```     ```doglike```
+  - -ous:    ```precious```     ```delicious```
+  - -able:    ```movable```   ```valuable```
+  - -ly:     ```lovely```    ```friendly```
+  - -some:    ```handsome```    ```awesome```
+- 构成动词的常用后缀有:
+  - -ize:  ```realize```     ```memorize```
+  - -en:     ```frighten```      ```sharpen```
+  - -ify:      ```terrify```     ```modify```
+- 构成副词的常用后缀有:
+  - -ly:   ```luckly```    ```really```
+  - -ward:    ```afterward```     ```onward```
+  - -wise:    ```likewise```    ```clockwise```
+- 构成数词的常用后缀有:
+  - -teen   ```nineteen```   ```fifteen```
+  - -ty   ```thirty```   ```forty```
+  - -th   ```fifth```  ```ninth```
+
+##### 短语结构
+
+let bygones be bygones	一切都过去了
+
+Great minds think alike         英雄所见略同
+
+chew sth over   深思熟虑
+
+keep sb/sth safe from ...  保持...安全而远离...
+
+a shotgun marriage	奉子成婚
+
+a flash marriage	闪婚
+
+3S ladies(single,seventies,stuck)  剩女
+
+eligible bachelor   钻石单身汉
+
+a good catch   合适的人选
+
+have a blind date   相亲
+
+propose to sb	向...求婚
