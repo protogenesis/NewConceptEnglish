@@ -232,6 +232,7 @@ Main knowledge
    3. There be句型的倒装
 
       ```
+      A hotel is/stands nearby.
       There is/stands a hotel nearby.  附近有家酒店.
       ```
 
@@ -425,3 +426,27 @@ a good catch   合适的人选
 have a blind date   相亲
 
 propose to sb	向...求婚
+
+
+
+# Lesson 8
+
+Main knowledge
+
+- prefer to结构
+
+##### prefer  to 结构
+
+```
+I prefer winter to summer.  相比夏天,我更喜欢冬天.  (to为介词)
+
+I prefer to sleep on the floor.  我喜欢睡在地板上.  (to为动词不定式)
+
+I prefer sleeping on the floor to sleeping on the mattress. 我更喜欢睡在地板上,而不是床垫上.  (to为介词,prefer和to后面在这种情况下接名词,动名词等)
+
+I prefer to sleep on the floor rather than (to) sleep on the mattress. 翻译同上. (此处to为不定式,rather than为强调,后面的to往往可以省略)
+
+相比...更加...的句式
+I would rather sleep on the floor than sleep on the mattress.  翻译同上.
+```
+
