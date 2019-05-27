@@ -450,3 +450,43 @@ I prefer to sleep on the floor rather than (to) sleep on the mattress. 翻译同
 I would rather sleep on the floor than sleep on the mattress.  翻译同上.
 ```
 
+
+
+# Lesson 9
+
+Main knowledge
+
+- 形容词和副词的比较级 the..., the...
+
+##### 形容词和副词的比较级 the..., the...
+
+形式: the + 形容词/副词比较级 +句子的倒装结构,表示当一方变化,另一方也随之变化
+
+```
+The more you eat, the more you become fat.   你吃的越多,也会越胖
+```
+
+
+
+> -er and -er 结构: 表示持续不断的变化,越来越...
+>
+> The boy is becoming more and more intelligent.   这个男孩正变得越来越聪明.
+>
+> She is becoming calmer and calmer.     她正变得越来越冷静.
+
+##### 短语动词和结构
+
+- fail to do sth.  未能做成某事
+- fail in doing sth.  在(做)某事失败了
+- be based on ...     以...为根据
+- in common  共同的
+- in common with ...  和...一样
+- died from ... 死于某种创伤,事故
+- died of ... 死于某种疾病
+- died through ...  死于某种一般性原因
+- died off ... 相继死去
+- suffer from ... 受...之苦
+- suffer for ... 因...而倒霉
+- Has the cat got your tougne?     你哑了吗? (对方突然停止说话)
+- The cat is out of the bag.   穿帮了,泄露了
+- When the cat is away, the mice will play.    山中无老虎,猴子称霸王
