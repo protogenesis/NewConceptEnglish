@@ -490,3 +490,44 @@ The more you eat, the more you become fat.   你吃的越多,也会越胖
 - Has the cat got your tougne?     你哑了吗? (对方突然停止说话)
 - The cat is out of the bag.   穿帮了,泄露了
 - When the cat is away, the mice will play.    山中无老虎,猴子称霸王
+
+
+
+# Lesson 10
+
+- sail常用的介词搭配形式
+
+##### sail常用的介词搭配形式
+
+sail about ...   在...驶来驶去
+
+sail across ...   横渡
+
+sail along / down / up    沿...向前/向下/向上驶去
+
+sail from ... to ...  从...驶往...
+
+sail into ...   驶入
+
+sail out of ... toward ...  离开...驶往...
+
+##### 短语动词与结构
+
+heavy loss/casualty of life       大批人员伤亡
+
+a crew of ...   一组...的人(船)员
+
+the crews of two boats  两艘船上的船员
+
+according to ... / even by ...     依据...
+
+to sb's adj.   令某人感到...的是
+
+watertight aggreement  严密的协议
+
+watertight alibi   找不到破绽的不在场证明
+
+the tip of an iceberg   冰山一角
+
+Never say die!  永不言败
+
