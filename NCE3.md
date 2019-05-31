@@ -531,3 +531,52 @@ the tip of an iceberg   冰山一角
 
 Never say die!  永不言败
 
+
+
+# Lesson 11
+
+Main knowledge
+
+- 大写字母
+
+##### 大写字母
+
+需要使用大写字母的情况:
+
+1. 句子或直接引语中的第一个单词的首字母   ```It's a fine day today.```      ```'How are you?' he greeted me. ```
+2. 人名,组织名,书名,电影名,剧名的各个单词的首字母(介词,连词等除外)    ```Institude of Electrical and Electronics Engineers  电气和电子工程师协会```      ```The Legend of White Snake   新白娘子传奇```
+3. 地名            ```India```
+4. 星期,月份,节日     ```Thursday 周四```  ```Spring Festival  春节``` 
+5. 某国人      ```Chinese   中国人```
+6. 指某人创作的艺术品,音乐和文学的人名        ```Mozart   莫扎特```
+7. 产品名称           ```Taobao  淘宝```
+8. 姓名前的头衔   ```President Bush  布什总统```
+9. 国名或地名的形容词     ```An American author  一位美国作家```
+10. 与某人有关或相像的形容词    ```in Victorian Times   在维多利亚时代```
+11. 人称代词```I```任何时候都要大写
+
+下述情况下大小写均可:
+
+1. 表示方向的单词的首字母   ```South/south``
+2. 年代   ```nineties/Nineties```
+3. 季节名称   ```Autumn/autumn```
+4. 用以指某一类人的头衔   ```The gret Prime Ministers/The great prime ministers  历任首相们```
+5. 代词He,Him,His指代基督,上帝
+
+##### 短语动词和结构
+
+in a dreadful mess    乱成一团
+
+light up    点亮,露出得意的神色
+
+pounce on sth.    朝...猛抓
+
+be exempt from  被免于...
+
+green hand   新手
+
+be tolerant of/towards ...  对...宽容的
+
+money makes the mare go   有钱能使鬼推磨
+
+business is business   公事公办
