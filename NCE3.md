@@ -543,7 +543,7 @@ Main knowledge
 
 需要使用大写字母的情况:
 
-1. 句子或直接引语中的第一个单词的首字母   ```It's a fine day today.```      ```'How are you?' he greeted me. ```
+1. 句子或直接引语中的第一个单词的首字母   ```It's a fine day today.```      ```'How are you?' he greeted to me. ```
 2. 人名,组织名,书名,电影名,剧名的各个单词的首字母(介词,连词等除外)    ```Institude of Electrical and Electronics Engineers  电气和电子工程师协会```      ```The Legend of White Snake   新白娘子传奇```
 3. 地名            ```India```
 4. 星期,月份,节日     ```Thursday 周四```  ```Spring Festival  春节``` 
@@ -557,7 +557,7 @@ Main knowledge
 
 下述情况下大小写均可:
 
-1. 表示方向的单词的首字母   ```South/south``
+1. 表示方向的单词的首字母   ```South/south```
 2. 年代   ```nineties/Nineties```
 3. 季节名称   ```Autumn/autumn```
 4. 用以指某一类人的头衔   ```The gret Prime Ministers/The great prime ministers  历任首相们```
@@ -580,3 +580,60 @@ be tolerant of/towards ...  对...宽容的
 money makes the mare go   有钱能使鬼推磨
 
 business is business   公事公办
+
+
+
+# Lesson 12
+
+Main knowledge
+
+- wish+从句组成的虚拟语气
+
+##### wish+从句组成的虚拟语气
+
+wish所带的从句是虚拟语气,用于表达难以实现或与事实相反的事情
+
+结构: 
+
+1. 如果表达与现在的事实相反,动词用过去式,be动词用were 
+
+2. 如果表达与过去的事实相反,动词用过去完成时或would/could + 现在完成时  
+
+3. 如果表达与将来的事实相反,或不可能实现的,用would/could + 动词原型  
+
+   > be动词用was也可以,但是不够正式,而且were使希望更加渺茫
+   >
+   > would表示愿望,could表示能够
+   >
+   > 当主语为第一人称,用could
+   >
+   > **不能用wish+从句的方式来表达将来的某一事实,如果不是接的从句,则可以表示祝愿**
+   >
+   > ```
+   > 错误写法: I wish [that] you will have a good time in Switzerland.
+   > 正确写法: I hope [that] you will have a good time in Switzerland  希望你在瑞士玩的开心
+   > ```
+   >
+   > ```
+   > I wish you every possible happiness.   我希望你万事如意
+   > ```
+
+##### either...or结构注意点
+
+当either...or中的成分均为句子主语时,居中的动词和or后的主语保持一致
+
+```
+Either he or you are to blame.   不是他的错就是你的错
+Either you or he is to blame.
+```
+
+##### 短语动词
+
+have the opportunity of doing sth.   有机会做某事
+
+have the opportunity to do sth.    同上
+
+load...with... 	装载...
+
+hardly ever  几乎从未
+
