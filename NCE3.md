@@ -637,3 +637,50 @@ load...with... 	装载...
 
 hardly ever  几乎从未
 
+take the opportunity    抓住机会
+
+have the chance/opportunity of doing sth.   有机会做某事
+
+have the chance/opportunity to do sth.    同上
+
+
+
+# Lesson 13
+
+Main knowledge
+
+- be + 形容词 + 动词不定式
+- Although和Though的区别
+
+##### be + 形容词 + 动词不定式
+
+英语中许多形容词之后跟动词不定式,可以表达各种含义.
+
+```
+She was impatient to put her new dress on.   她急切的想把新裙子穿上.
+```
+
+常用it作先行主语
+
+```
+It was silly (of us) to believe him.   我们相信了他,真愚蠢 (句中of表示所指的人,在人很明确的情况下可以省略)
+```
+
+##### Although和Though的区别
+
+两者用法基本相同,但有以下几点细微差别:
+
+1. though多用于正式口语和书面语,although可用于各种文体
+2. 在如even though和as though这些短语性质的从属连词搭配中,even和as只能同though使用
+3. though可做副词,置于句子末尾,表'然而','不过'之意,但although则不能
+4. though和although均不可同表示转折关系的连词but连用,但可以和yes,still等副词来对主语进行强调
+
+##### 短语动词与结构
+
+be composed of ...   由...组成
+
+A compose/constitute B.         B由A组成
+
+keep pace with ...          与...组成同步
+
+let out a cry/give a cry    大叫一声
