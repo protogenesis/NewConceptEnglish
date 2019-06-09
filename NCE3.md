@@ -684,3 +684,92 @@ A compose/constitute B.         B由A组成
 keep pace with ...          与...组成同步
 
 let out a cry/give a cry    大叫一声
+
+
+
+# Lesson 14
+
+- be known to ... 结构
+- would rather结构
+
+##### be known to ... 结构
+
+- be known to sb.  为某人所知
+
+  - ```
+    Your neighbour is known to the police, so you had better keep eye on him.
+    警察对你的邻居很熟悉,你最好当心点
+    ```
+
+- be known to some place.  为某地所知
+
+  - ```
+    The family is quite known to the area.
+    这家人在这一片很有名
+    ```
+
+**此外,be known还可以使用介词for,as搭配,虽然都是用来表示以...出名,但用法不一样**
+
+1. be known as ...   	as后的介词宾语和主语为同位语成分
+2. be known for ...     for后面的介词宾语则为主语的从属内容
+
+  
+
+- 当主语为表示人的名词时,be known as ... 表示以某种身份而出名,be known for ... 表示以某种技能,作品而出名
+
+  - ```
+    Edison was known as a great inventor. 
+    爱迪生以一位伟大的发明家而著称.
+    
+    Edison was known for his inventive talent.
+    爱迪生以其发明天赋而闻名.
+    ```
+
+- 当主语为表示地点的名词时,be known as ... 表示以...的地方而闻名,be known for ... 表示以...特产而闻名
+
+  - ```
+    The area is known as a green tea producing region.
+    这个地区以绿茶产地而闻名
+    
+    The area is known for its green tea.
+    这个地区因其绿茶闻名.
+    ```
+
+- 当主语为事物名词时,be known as ...  表示以...形式而闻名,be known for ... 则表示以...内容,价值等而文人所知
+
+  - ```
+    This book is known as a reference book.
+    这本书是一本参考书.
+    
+    This book is known for its practical usage.
+    这本是是一本实用书.
+    ```
+
+##### would rather结构
+
+would rather可以用来表示个人的选择,某人更加愿意...    常常和虚拟语气连用
+
+would rather后面可以跟从句, sb. would rather that ... 
+
+也可以跟不带to的不定式 sb. would rather do A than do B.   
+
+##### 短语动词
+
+put ... out of business     使...失败/垮台
+
+as long ago as ...    追溯到,早在
+
+make a name for oneself     使自己成名
+
+be at war with ...     与...处于战争状态
+
+There was a time when ...   曾经有一段时间...
+
+In times of ...  在...时期
+
+in memory of sb.    为了纪念某人
+
+if my memory serves me well  如果我没记错的话
+
+sth. be dedicated to the memory of sb    某物用来纪念某人
+
