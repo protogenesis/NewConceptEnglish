@@ -611,7 +611,7 @@ wish所带的从句是虚拟语气,用于表达难以实现或与事实相反的
    >
    > ```
    > 错误写法: I wish [that] you will have a good time in Switzerland.
-   > 正确写法: I hope [that] you will have a good time in Switzerland  希望你在瑞士玩的开心
+   > 正确写法: I hope [that] you will have a good time in Switzerland.  希望你在瑞士玩的开心
    > ```
    >
    > ```
@@ -620,7 +620,7 @@ wish所带的从句是虚拟语气,用于表达难以实现或与事实相反的
 
 ##### either...or结构注意点
 
-当either...or中的成分均为句子主语时,居中的动词和or后的主语保持一致
+当either...or中的成分均为句子主语时,句中的动词和or后的主语保持一致
 
 ```
 Either he or you are to blame.   不是他的错就是你的错
@@ -747,7 +747,7 @@ let out a cry/give a cry    大叫一声
 
 ##### would rather结构
 
-would rather可以用来表示个人的选择,某人更加愿意...    常常和虚拟语气连用
+would rather可以用来表示个人的选择,某人更加愿意...   
 
 would rather后面可以跟从句, sb. would rather that ... 
 
@@ -773,3 +773,44 @@ if my memory serves me well  如果我没记错的话
 
 sth. be dedicated to the memory of sb    某物用来纪念某人
 
+
+
+# Lesson 15
+
+Main knowledge
+
+- penny,pence,pennies
+- advise和其他表示建议,要求等组成的虚拟语气
+- 复习can,be able to,manage to
+
+##### penny,pence,pennies
+
+penny表示一便士(一分钱)
+
+pence和pennies都是penny的复数,但是两者有区别
+
+```
+a fifty pence   表示一个五十便士的硬币
+
+fifty pennies   表示五十个一便士的硬币
+```
+
+##### advise和其他表示建议,要求等组成的虚拟语气
+
+在advise,demand,order,suggest等等表示建议的动词加从句表示虚拟语气时,虚拟语气结构中的should可以省略
+
+```
+He advised me that I (should) have read that book.   他建议我读这本书.
+
+The man damanded that the owners of shops (should) pay the 'protection money' to him.
+这位男子要求店主们支付保护费给他.
+
+The headmaster ordered these students that they be at classroom at this time.(省略了should)
+校长指示学生们这个时间应该在教室.
+```
+
+##### 短语动词
+
+provide a regular supply of ...        提供定期的...补给
+
+grease one's palm    贿赂某人
