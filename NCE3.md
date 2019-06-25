@@ -814,3 +814,46 @@ The headmaster ordered these students that they be at classroom at this time.(�
 provide a regular supply of ...        提供定期的...补给
 
 grease one's palm    贿赂某人
+
+
+
+# Lesson 16
+
+Main knowledge
+
+- 复习had better用法
+- 宾语后的动词为过去分词,现在分词,形容词的情况
+
+##### had better
+
+had better表示建议,威胁,催促的意味,语义要比should,ought to更为强烈
+
+had better为固定短语,没有动词变形,否定句一般为had better not ..., 疑问句也可以在had后加not
+
+```
+Hadn't we better invite him to our party?  我们是否应该邀请他来我们的排队呢?
+```
+
+##### 宾语后接过去分词,现在分词,形容词的情况
+
+在宾语后接过去分词,现在分词,形容词,用来进一步说明宾语的状态(也就是宾语补足语)
+
+各自的区别: 
+
+```
+1. She kept the boy standing out of the door.    她让那个男孩一直站在外面
+2. She kept the dog tied to the tree.            她把狗栓在了树上
+3. She kept the door open in order to watch the setting sun.    她把门打开以便看日落
+```
+
+第一句中的宾语是the boy,后接现在分词,因为standing和body是逻辑上的主谓关系,standing这个动作是the boy发出的
+
+第二句中的宾语时the dog,后接过去分词,因为tied和dog不是逻辑上的主谓关系.
+
+第三句中的宾语时the door,后接形容词open,表示状态
+
+##### 短语动词
+
+bark up the wrong tree.   弄错了对象
+
+tie ... to ...    将...栓在...
