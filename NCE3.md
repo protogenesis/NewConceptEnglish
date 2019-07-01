@@ -857,3 +857,29 @@ Hadn't we better invite him to our party?  我们是否应该邀请他来我们�
 bark up the wrong tree.   弄错了对象
 
 tie ... to ...    将...栓在...
+
+
+
+# Lesson 17&Lesson 18
+
+##### 短语动词与结构
+
+by no means    绝不
+
+be taken into account   被...考虑到
+
+take ... into account    考虑到....
+
+It had been estimated that ...      据估计
+
+one man's meat is another man's poison.     萝卜青菜,各有所爱
+
+in response to ...    对...的回答
+
+sth be familiar to sb/sb be familiar with sth     某物/某人对某人/某物熟悉
+
+take great  interest in sth   对...非常感兴趣
+
+attach A to B.     将A与B连接
+
+To err is human, to forgive is divine.     人非圣贤孰能无过
