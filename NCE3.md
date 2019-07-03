@@ -883,3 +883,23 @@ take great  interest in sth   对...非常感兴趣
 attach A to B.     将A与B连接
 
 To err is human, to forgive is divine.     人非圣贤孰能无过
+
+
+
+# Lesson 19
+
+##### 动词短语和结构
+
+lead an adj. life    过着...样的生活
+
+in safe hands   被照顾的很周全
+
+keep one's word   信守诺言
+
+break one's word    食言
+
+eat one's words    收回某人的话
+
+sure enough   显然
+
+in more ways    在多种方面下
