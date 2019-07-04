@@ -903,3 +903,27 @@ eat one's words    收回某人的话
 sure enough   显然
 
 in more ways    在多种方面下
+
+
+
+# Lesson 20
+
+Main knowledge
+
+- as if与as though
+
+##### as if与as though
+
+as if和as though 都可以用来表示似乎,就好像...的意思,as if更常用
+
+as if和as though后面的从句中看情况决定用什么时态:
+
+1. 如果是不可能发生的,用虚拟语气
+
+2. 如果是描述事实,或者可能会发生的,用陈述句语气
+
+##### 短语动词和结构
+
+made a attempt at doing sth   尝试做某事
+
+made a attempt to do sth.     尝试去做某事
