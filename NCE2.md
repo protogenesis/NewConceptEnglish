@@ -1676,7 +1676,7 @@ as if/as though  好像,犹如
 
 通常用在表示行为举止的句子中,如act,smell,fell等
 
-
+[更新as if信息](./NCE3.md#lesson-20)
 
 ##### 短语结构
 
