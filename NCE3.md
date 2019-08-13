@@ -927,3 +927,37 @@ as if和as though后面的从句中看情况决定用什么时态:
 made a attempt at doing sth   尝试做某事
 
 made a attempt to do sth.     尝试去做某事
+
+
+
+# Lesson 21&22
+
+- 强调句
+- as if后面从句的注意点
+
+##### 强调句
+
+强调句的结构: 
+
+1. It is not + 时间 + that
+2. Not until + 时间 + 助动词 + 从句
+
+##### as if/as though后接从句
+
+ as if/as though 后从句可以根据说话者的语气来决定用什么时态
+
+当说明在某种情况下做某事时(概率),需用虚拟语气
+
+当通过现在的某种迹象做出推测,发生几率大时,用陈述语气
+
+##### 动词短语和结构
+
+do sth on end    连续不断地做某事
+
+have no cause to do sth     没有任何理由做某事
+
+play a joke on sb.  开某人的玩笑
+
+cast sb in ...   选派某人担任...的角色
+
+much to sb's sth.   令某人感到...的是
