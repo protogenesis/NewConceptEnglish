@@ -961,3 +961,39 @@ play a joke on sb.  开某人的玩笑
 cast sb in ...   选派某人担任...的角色
 
 much to sb's sth.   令某人感到...的是
+
+
+
+# Lesson 23
+
+Main knowledge
+
+- 最高级的其他表达方式
+
+##### 最高级的其他表达方式
+
+除了用the most来表示最高级外,还可以用:
+
+1. 否定词 + so/as + 原级 + as
+
+   ```
+   Nothing impressed me so deeply as my first trip to China.
+   ```
+
+2. 比较级 + than + any other + 名词
+
+   ```
+   He is more brave that any other his fellows.
+   ```
+
+##### 短语动词和结构
+
+at the idea of ...  一想到...
+
+tastes differ   人各有好
+
+One man's meat is another man's poison.   同上
+
+All things fit not all persons.  众口难调
+
+Beauty is in the eye of the beholder.   情人眼里出西施
