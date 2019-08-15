@@ -997,3 +997,22 @@ One man's meat is another man's poison.   同上
 All things fit not all persons.  众口难调
 
 Beauty is in the eye of the beholder.   情人眼里出西施
+
+
+
+# Lesson 24
+
+Main knowledge
+
+- 表示将来行为的词组
+
+##### 表示将来行为的词组
+
+1. be about to do sth   即将做某事(立即就去,不可与Immediately,at once等连用)
+2. be not about to do sth   不愿意做某事
+3. be on the point of doing sth
+4. be to do sth   按计划安排将要发生的事
+
+##### 短语动词和结构
+
+to varying degrees   在不同程度上
