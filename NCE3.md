@@ -962,7 +962,17 @@ cast sb in ...   选派某人担任...的角色
 
 much to sb's sth.   令某人感到...的是
 
+turn one's stomach    反胃
 
+when it comes to doing sth / n.  当涉及到,谈论到
+
+assosiate A with B  将A与B联系起来
+
+sth appeal to sb.   某事引起某人兴趣
+
+on impulse    处于冲动
+
+take possession of ...   占据...
 
 # Lesson 23
 
@@ -1016,3 +1026,57 @@ Main knowledge
 ##### 短语动词和结构
 
 to varying degrees   在不同程度上
+
+
+
+# Lesson 25&26
+
+Main knowledge
+
+- 复习动名词
+
+##### 复习动名词
+
+动名词既可以当名词,形容词,还可以当动词; 当动词时可以有自己的宾语,副词等
+
+```
+Fishing is my favorite sport. 当名词
+
+He wants to catch the swimming fish.  当形容词`
+
+I like thinking of my life quietly in the bed.   当动词,并且有自己的宾语,副词
+```
+
+动名词可以和完成时,被动语态连用
+
+```
+I'm sorry for having wasted your time. 
+
+After having been instructed to drive out of town, I began to acquire confidence.
+```
+
+动名词可以作为状语,表示正在进行的动作,或者表示原因,状态等
+
+```
+Working in the garden, he noticed a huge number of snails clinging to his plants.   动名词表示正在进行时
+
+Considering she is too old, the police let her off.  表示原因
+
+napping on the desk, hw was asked to answer the question by the teacher.
+```
+
+##### 动词短语和结构
+
+have influence over sb.  对某人有影响
+
+be under the influence of ...   受到...的影响
+
+pride oneslef on ...   对...感到自豪
+
+take pride in ...   以...为豪
+
+in the pride of ...  处于全盛时期
+
+
+
+##### 
