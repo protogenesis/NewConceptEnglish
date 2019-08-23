@@ -1079,4 +1079,27 @@ in the pride of ...  处于全盛时期
 
 
 
-##### 
+# Lesson 27&28
+
+
+
+##### 短语动词和结构
+
+in the light of ...   依据,按照
+
+in terms of ...   在...方面
+
+The only exception to ...    唯一的例外是...
+
+fully aware of ...   完全意料到
+
+put sth in the same class   将...归为同一类
+
+be free from ...  免于...
+
+have every intention of doing sth.   非常想做某事
+
+go to great length to do sth   竭力做某事
+
+bargain with sb for sth.   与某人为某物讨价
+
