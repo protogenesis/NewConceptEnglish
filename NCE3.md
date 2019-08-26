@@ -1103,3 +1103,38 @@ go to great length to do sth   竭力做某事
 
 bargain with sb for sth.   与某人为某物讨价
 
+
+
+# Lesson 29
+
+Main knowledge
+
+- whether和if的区别
+
+##### whether和if的区别
+
+whether和if都可以用来表示是否
+
+但是只有whether可以跟在介词后,不能用If
+
+```
+I'm thinking of whether I should go there.
+```
+
+在动词不定式后,只能用whether,不能用If
+
+```
+I haven't decided whether to go.   
+```
+
+##### 动词短语和结构
+
+stems ... from ...   起源于....
+
+take heart    铭记于心
+
+come into power    掌权
+
+come into being   产生,形成
+
+Misfortunes never come along   祸不单行
