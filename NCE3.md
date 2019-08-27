@@ -1131,10 +1131,59 @@ I haven't decided whether to go.
 
 stems ... from ...   起源于....
 
-take heart    铭记于心
+take heart    鼓起勇气
 
 come into power    掌权
 
 come into being   产生,形成
 
 Misfortunes never come along   祸不单行
+
+be bound up with ...   与...联系在一起
+
+
+
+# Lesson 30
+
+Main knowledge
+
+- old的两种比较级形式
+- 死亡的委婉说法
+
+##### old的两种比较级形式
+
+1. old-older-oldest
+   1. 既可以用来表示人的实际年龄的大小,也可用来表示物的新旧及其他引申意义
+2. old-elder-eldest
+   1. 指人的长幼,常用在表示亲属前
+
+##### 死亡的委婉说法
+
+go to heaven
+
+pass away
+
+fell asleep
+
+be no more
+
+breathe one's last (breath)
+
+sleep the final sleep
+
+go to a better world
+
+go to sleep forever
+
+go west
+
+kick the bucket
+
+##### 短语动词和结构
+
+stay up   熬夜
+
+none other than ...   不是别人,而正是...
+
+be obliged to do sth    被迫做某事
+
