@@ -1187,3 +1187,43 @@ none other than ...   不是别人,而正是...
 
 be obliged to do sth    被迫做某事
 
+
+
+
+
+# Lesson 31
+
+Main knowledge
+
+- 动名词的逻辑主语
+
+##### 动名词的逻辑主语
+
+有一些可以带-ing形式的动词,其间可插入一个名词或代词,这个词有时必须是宾格,有时必须是所有格,有时可以为两者中的任一个;这个名词或代词即是动名词的逻辑主语
+
+```
+I had better not catch you doing that again!   此处动名词逻辑主语you为宾格
+
+Would you mind my/me unlocking this suitcase please?  此处动名词的逻辑主语既可以用宾格,也可以用主格
+
+The customer insisted on the assistant's wearing the dress before he bought.  此处动名词的逻辑主语为所有格the assistant's
+
+I can't imagine John and Frank paying so much for a piano. 动名词的逻辑主语如果有一个以上的名字,一般用宾格形式
+```
+
+
+
+##### 短语动词和结构
+
+Don't judge a book by its cover.   人不可貌相
+
+The best fish swims near the bottom.   真人不露相
+
+be conscious of ... 意识到...
+
+follow the routine   按照惯例
+
+break the routine    打破惯例
+
+draw attention to ...   引起对...的注意
+
