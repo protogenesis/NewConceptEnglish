@@ -1227,3 +1227,28 @@ break the routine    打破惯例
 
 draw attention to ...   引起对...的注意
 
+
+
+# Lesson 32
+
+Main knowledge
+
+- together with ...  与主谓一致的问题
+
+##### together with ...  与主谓一致的问题
+
+当主语后跟along with/together with/as well as/in addition to等等(相当于插入语,也可以放句尾)引导的词汇,其后的动词形式取决于主语的形式,跟插入语无关
+
+```
+A young woman, together with her two baby daughters, was survived the air crash.  主语为A yound woman,单数形式
+
+Tom, as well as his parents, is having a holiday in France.  
+```
+
+##### 短语动词和结构
+
+come to light   为人所知
+
+under the impression  that ...   认为...
+
+piece together ...  拼凑
