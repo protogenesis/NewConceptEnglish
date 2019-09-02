@@ -1252,3 +1252,42 @@ come to light   为人所知
 under the impression  that ...   认为...
 
 piece together ...  拼凑
+
+
+
+# Lesson 33&34&35
+
+Main knowledge
+
+- 独立主格
+
+##### 独立主格
+
+[介绍](./NCE2.md#lesson-78)
+
+独立主格的特点:
+
+1. 逻辑主语和句子的主语不同
+2. 名词或代词与后面的分词,形容词,副词,不定式,介词等为主谓关系
+3. 该结构一般有逗号与主句分开
+
+```
+The man lay there, (with) his hands trembling.  现在分词形式的独立主格
+
+The bottles broken, he swept it up.    过去分词
+
+The wether fine, we decided to take a stroll.   形容词
+```
+
+##### 动词短语和结构
+
+on a big scale   大规模地
+
+above all   最重要的是
+
+beyond doubt    无需质疑地
+
+cease to do sth   (慢慢地)终止做某事
+
+hand over ...  移交
+
