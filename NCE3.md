@@ -1291,3 +1291,30 @@ cease to do sth   (慢慢地)终止做某事
 
 hand over ...  移交
 
+... of sb's/sth's own accord    自愿地
+
+
+
+# Lesson 36&37&38
+
+##### 短语动词和结构
+
+bring about ...    实施
+
+pour scorn on ...   挖苦...
+
+bring ... to a conclusion   使...结束
+
+in black and white   白纸黑字
+
+a note of triumph  胜利者的调子
+
+take advantage of ...    利用
+
+pour oil on fire    火上浇油
+
+pour oil on troubled waters   平息争端
+
+come into being    出现,产生
+
+shed light on ...  使...显现出来
