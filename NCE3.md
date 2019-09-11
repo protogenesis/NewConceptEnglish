@@ -1318,3 +1318,41 @@ pour oil on troubled waters   平息争端
 come into being    出现,产生
 
 shed light on ...  使...显现出来
+
+
+
+# Lesson 39&40
+
+##### 动词短语和结构
+
+give way to ...   取而代之的是.../让位给...
+
+No offence.   不要见怪
+
+Up to you.   随你自己的便
+
+play a hoax/trick on sb       戏弄某人
+
+specialize in ...   专门从事
+
+
+
+# Lesson 41&42
+
+##### 动词短语和结构
+
+make do with ...  凑合着用...
+
+pace of living   生活节奏
+
+go into raptures (over/about)    变得极其喜爱
+
+under the illusion   有...的错觉
+
+be superior to ... 优于...
+
+down to a close   临近结束
+
+edge one's way    侧身缓缓...移动
+
+speak the same language  志同道合
