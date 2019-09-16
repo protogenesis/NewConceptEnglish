@@ -1356,3 +1356,27 @@ down to a close   临近结束
 edge one's way    侧身缓缓...移动
 
 speak the same language  志同道合
+
+
+
+# lesson 43&44
+
+##### 短语动词和结构
+
+in the event of ...   万一
+
+make a claim of ...   提出...的要求
+
+Floow suit.     照着做
+
+take sb's mind off sth.   摆脱某事带来的困扰
+
+in snatches.   断断续续地
+
+lull sb to sleep.    使某人昏昏欲睡
+
+lull sb into doing sth.     哄骗某人做某事
+
+keep sb occupied.   使某人忙碌
+
+more often than not.   经常
