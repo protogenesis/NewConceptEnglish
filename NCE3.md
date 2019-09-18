@@ -1359,7 +1359,7 @@ speak the same language  志同道合
 
 
 
-# lesson 43&44
+# Lesson 43&44
 
 ##### 短语动词和结构
 
@@ -1380,3 +1380,26 @@ lull sb into doing sth.     哄骗某人做某事
 keep sb occupied.   使某人忙碌
 
 more often than not.   经常
+
+
+
+# Lesson 45&46
+
+
+
+##### 短语动词和结构
+
+be exclusive of ...  排除...在外
+
+plead ignorance of ...   以不知...为借口
+
+so far as ...   到...的程度
+
+as ... as anything (else)   不得了/了不得的...
+
+get round to ...  抽出时间去做某事
+
+nag sb to do sth.   唠唠叨叨让某人去做某事
+
+
+
