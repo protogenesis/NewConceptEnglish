@@ -1403,3 +1403,69 @@ nag sb to do sth.   唠唠叨叨让某人去做某事
 
 
 
+# Lesson 47&48
+
+Main knowledge
+
+- 缩略语
+
+##### 缩略语
+
+缩略语为省略了单词,复合词,短语等的一些字母或只是使用其首字母的一种简短形式
+
+缩略语的5种基本形式:
+
+1. 由单词的首字母组成,按完整的单词发音
+
+   ``` 
+   m = metre   米
+   N = North  北方
+   ```
+
+2. 由单词的几个字母组成,按完整的单词发音
+
+   ```
+   usu. = usually   通常
+   Brit. = British.  不列颠
+   ```
+
+3. 省略了单词的某些字母,按完整的单词发音
+
+   ```
+   asst. = assistant   助手
+   dept. = department   系
+   ```
+
+4. 由一词组中的各主要词的首字母组成,分别发出各字母的读音,主重音在最后一个字母
+
+   ```
+   CD = compact disc  光盘
+   USA = United states of America   美国
+   VIP = very important person   大人物
+   ```
+
+5. 由一组词中各主要词的首字母缩合成一个新词(首字母缩拼词),读成一个单词,一般用大写,如果用小写则已经视成了普通名词
+
+   ```
+   TEFL/tefl = teaching English as a foreign language  作为外语的英语教学
+   BASIC = Beginner's All-purpose Symbolic Instruction Code   初学者通用符号指令码
+   ```
+
+
+##### 短语动词和结构
+
+have the choise of ... or ...    在...或...之间选择
+
+make one's contribution to ...   做出自己的贡献
+
+several bus loads of food/...   能够装满几辆巴士的食物/...
+
+be inaccessible to ...      ...是难以到达的
+
+by shy of ...    对...害怕
+
+come to life   苏醒过来，有了生气
+
+be packed like sardine   挤满了人
+
+The shoe is on the other foot.    今非昔比
