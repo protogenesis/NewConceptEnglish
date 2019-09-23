@@ -1469,3 +1469,54 @@ come to life   苏醒过来，有了生气
 be packed like sardine   挤满了人
 
 The shoe is on the other foot.    今非昔比
+
+
+
+# Lesson 49&50
+
+##### 表示可能性和肯定性的副词(从可能性最小开始)
+
+> possibly
+
+> perhaps, maybe
+
+> hopefully
+
+> probably
+
+> presumably
+
+> almost
+
+> certainly
+
+> no doubt, doubtless
+
+> difinitely
+
+##### 短语动词和结构
+
+air one's view on ...   就...发表意见
+
+be attached to ...   喜欢,中意
+
+carry on an unrelenting search for ...   为寻找...坚持不懈
+
+Take one's time.   别着急
+
+More hastes, less speed.  欲速则不达
+
+Hastes make waste.  同上
+
+make a resolution to do sth.   下决心去做某事
+
+apply oneself to sth.  全力以赴的专心于某事
+
+years in years out   年复一年
+
+keep ... to oneself   将...藏于心底
+
+twist ... into ...  把...歪曲(扭曲)成...
+
+
+
