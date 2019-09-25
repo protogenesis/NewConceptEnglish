@@ -1520,3 +1520,35 @@ twist ... into ...  把...歪曲(扭曲)成...
 
 
 
+# Lesson 51&52
+
+##### 短语动词和结构
+
+point the way to ...   指出通往...的道路
+
+diagnose sb with ...   某人被诊断为...
+
+relieve sb of ...   减轻某人的负担(责任)
+
+It's the first step that costs.   万事开头难
+
+Well begun is half done.  同上
+
+A good beginning is a half the battle.  同上
+
+beat a hasty retreat.   匆忙撤退
+
+come into the possession   拥有
+
+be fond of sth.     喜爱某事
+
+on the spot.    在现场
+
+out of stock.    没有存货
+
+keep a straight face.   一本正经
+
+You reap what you sow.    种瓜得瓜种豆得豆
+
+put on an act.  装模作样
+
