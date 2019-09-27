@@ -1552,3 +1552,34 @@ You reap what you sow.    种瓜得瓜种豆得豆
 
 put on an act.  装模作样
 
+
+
+# Lesson 53&54
+
+##### 短语动词和结构
+
+in the interest of ...    为了某人的利益
+
+in the belief that ...    自以为...,相信
+
+be subject to ...    受到...的控制
+
+on one's behalf    代表某人
+
+projudice A against B.   使A对B抱有偏见
+
+loadg a complaint against ...   对...提出控诉
+
+put an end to sth.  了断某事
+
+Take things as they come.   既来之,则安之
+
+bring up to do sth.      生来就要做某事
+
+stood in awe     肃然起敬
+
+wage war on ...   与...奋战
+
+have a horror of sth.   害怕某事
+
+Make it snappy.   快点吧!
