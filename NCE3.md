@@ -1583,3 +1583,21 @@ wage war on ...   与...奋战
 have a horror of sth.   害怕某事
 
 Make it snappy.   快点吧!
+
+
+
+# Lesson 55&56
+
+##### 短语动词和结构
+
+paly an important part in ...   在...扮演着一个重要的角色
+
+make a living    生存下来
+
+In a heat wave   在大热天里
+
+spell disasters for ...  为...带来灾难
+
+take turn in doing ...    轮流做某事
+
+`
