@@ -1600,4 +1600,29 @@ spell disasters for ...  为...带来灾难
 
 take turn in doing ...    轮流做某事
 
-`
+
+
+# Lesson 57-60
+
+##### 动词短语和结构
+
+reproach sb for sth.   未某事责备某人
+
+cut things fine   将时间安排的不留余地
+
+be tempted to sth.   禁不住某事
+
+Never put off till tomorrow.   今日事今日毕
+
+become an authority on ...   成为某方面的专家
+
+hold your jaw!  别多嘴!
+
+follow one's regular parctice.  像往常一样
+
+the first impulse is that ...   第一个念头就是...
+
+Now worth a bean.   一文不值
+
+be essential in sth.   在...方面必不可少
+
