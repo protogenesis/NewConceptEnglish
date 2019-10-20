@@ -73,5 +73,63 @@ do harm to sb / do sb/sth harm   对某人/某事造成损害
 
 be engaged in ...   从事于 
 
+go out of SB's way    某人想尽了办法
+
+
+
+# Lesson 5-
+
+##### Load和lade的区别
+
+load和lade都是装载的意思,但是load常表示机器或设备上装载某些内容,lade常表示装载实际的物体
+
+```
+The camare has a sensor that flashes when a film has not been corretly loaded.
+
+The poor woman was so laden with household shopping, she could hardly step up to get on the bus.
+```
+
+##### 短语动词和结构
+
+deduce ... from ...  从...推断出...
+
+take leave to do ...   擅自/冒昧去做某事
+
+get down to ...   认真研究...
+
+turn to ... for ...   为了...而求助于...
+
+steer clear of ...   避开
+
+apply oneself to ...   致力于
+
+put sand in the wheel of ...  阻碍...
+
+in no time   立即
+
+for the sake of ...  为了...的利益
+
+on account of ...  由于/归咎于...
+
+every so often   时常
+
+every now and again    偶尔
+
+every once in a while    偶尔
+
+every now and then   有时
+
+now and again   有时
+
+by means of ...    靠...的手段
+
+be loaded against ...   于...不利
+
+weigh against ...   于...不利
+
+in so far as ...   就...而言
+
+as likely as not   可能,多半
+
 
 
