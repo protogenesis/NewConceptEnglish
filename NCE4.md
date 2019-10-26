@@ -169,7 +169,7 @@ for the good of ...     为了...的好处,利益
 
 
 
-# Lesson 18
+# Lesson 18-19
 
 Main knowledge
 
@@ -246,3 +246,57 @@ Main knowledge
 ##### 短语动词和结构
 
 credit ... with ...   相信...具有..., 在(贷方)记入...
+
+
+
+# Lesson 20
+
+Main knowledge
+
+- 倒装让步状语从句
+
+##### 倒装让步状语从句
+
+1. 名词 + as/though + 主语 + 动词 (名词位于句首时冠词省略)
+
+   ```markdown
+   King as he was, he was unhappy.  => As he was a king, he was unhappy.
+   
+   Teacher though he is, he can't know everything.
+   ```
+
+2. 形容词 + as/though + 主语 + 动词
+
+   ```markdown
+   Successful as he is, he is not pround.
+   
+   Stupid as it sounds, I was so in love with her that I believed her.
+   ```
+
+3. 副词 + as/though + 主语 + 动词
+
+   ```markdown
+   Hard though they tried, they couldn't make her change her mind.
+   
+   Fast as you read, you can't finish the book in two days.
+   ```
+
+4. 动词原形 + as/though + 主语 + 动词 (may, might, do, did)
+
+   ```markdown
+   Object as you may, I'll go.
+   
+   Try as he might, he couldn't solve the problem.
+   
+   Lose money as we did, we got a lot of experience.
+   ```
+
+5. 分词 + as/though + 主语 + 动词
+
+   ```
+   Rainning hard as it is, I'm going out for a walk.
+   
+   Surrounded as we were by the enemy, we managed to march forward.
+   ```
+
+> 区分从句是表示原因还是让步可以通过观察整个句子来确定
