@@ -247,6 +247,8 @@ Main knowledge
 
 credit ... with ...   相信...具有..., 在(贷方)记入...
 
+force ... upon ...   将...强加于...
+
 
 
 # Lesson 20
@@ -300,3 +302,4 @@ Main knowledge
    ```
 
 > 区分从句是表示原因还是让步可以通过观察整个句子来确定
+
