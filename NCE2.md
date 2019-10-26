@@ -288,7 +288,7 @@ The camare will send us the clearest pictures that we have ever seen.
 
 ##### nearly和almost的区别
 
-两者都表示几乎,差点儿的意思,在含有否定意义的句子中一般用almost
+两者都表示几乎,差点儿的意思,在含有疑问、否定意义的句子中一般用almost, nearly一般用于肯定句
 
 ##### each和every的区别
 
@@ -3786,11 +3786,15 @@ keep up with  跟上...
 
 独立主格指的是句子中的某一部分有自己的逻辑主格和逻辑谓语,和主句不影响
 
+主要用于书面用语和正式用语中,它的好处是使得句子更加的简洁,精炼和生动
+
 ```
 I had all the usual symptoms of someone giving up smoking. 
 戒烟的人通常表现的一切征兆,我都有...
 在这里someone giving up smoking是独立主格结构,做of的宾语,someone是逻辑主语,giving是逻辑谓语
 ```
+
+[独立主格的更多特征](./NCE3.md#独立主格)  [独立主格的更多特点](./NCE3.md#独立主格-1)  [独立主格用法一览](./NCE4.md#独立主格)
 
 ##### 短语动词
 

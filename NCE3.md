@@ -309,6 +309,8 @@ Main knowledge
 
 ##### 独立主格
 
+[独立主格的特征](./NCE2.md#独立主格)    [独立主格的特点](./NCE3.md#独立主格-1)     [独立主格用法一览](./NCE4.md#独立主格)
+
 独立主格指的是句子中的某一部分拥有自己的逻辑主语和逻辑谓语,通常通过with,of等介词连接
 
 独立主格中的谓语动词有三种形式:
@@ -713,7 +715,6 @@ let out a cry/give a cry    大叫一声
 1. be known as ...   	as后的介词宾语和主语为同位语成分
 2. be known for ...     for后面的介词宾语则为主语的从属内容
 
-  
 
 - 当主语为表示人的名词时,be known as ... 表示以某种身份而出名,be known for ... 表示以某种技能,作品而出名
 
@@ -1263,7 +1264,7 @@ Main knowledge
 
 ##### 独立主格
 
-[介绍](./NCE2.md#lesson-78)
+[独立主格的特征](./NCE2.md#独立主格)   [独立主格的更多简介](./NCE3.md#独立主格)   [独立主格的用法一览](#独立主格)
 
 独立主格的特点:
 
@@ -1272,11 +1273,11 @@ Main knowledge
 3. 该结构一般有逗号与主句分开
 
 ```
-The man lay there, (with) his hands trembling.  现在分词形式的独立主格
+The man lay there, (with) his hands trembling.  现在分词形式的独立主格 (his hands为逻辑主语)
 
-The bottles broken, he swept it up.    过去分词
+The bottles broken, he swept it up.    过去分词形式
 
-The wether fine, we decided to take a stroll.   形容词
+The wether fine, we decided to take a stroll.   形容词形式
 ```
 
 ##### 动词短语和结构
