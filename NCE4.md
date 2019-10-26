@@ -77,7 +77,7 @@ go out of SB's way    某人想尽了办法
 
 
 
-# Lesson 5-
+# Lesson 5-15
 
 ##### Load和lade的区别
 
@@ -140,3 +140,109 @@ with no regard for ...  不考虑...
 without giving any consideration to ...   不考虑...
 
 without any idea of ...   完全忽视...
+
+hit the nail on the head     一针见血
+
+for want of ...   缺少
+
+
+
+# Lesson 16&17
+
+Main knowledge
+
+- neglect&overlook&ignore的区别
+
+##### neglect&overlook&ignore的区别
+
+三者都是表示疏忽
+
+但neglect主要强调的是疏忽,忽略的这个事实(不论是否有意)
+
+overlook表示无意的疏忽,忽略
+
+ignore表示有意的疏忽,忽略
+
+##### 短语动词
+
+for the good of ...     为了...的好处,利益
+
+
+
+# Lesson 18
+
+Main knowledge
+
+- 独立主格
+
+##### 独立主格
+
+   [独立主格的特征](./NCE2.md#独立主格) [独立主格的更多简介](./NCE3.md#独立主格)  [独立主格的特点](./NCE3.md#独立主格-1)
+
+1. 独立主格通常有四种结构
+
+   1. 不定式结构
+
+      ```markdown
+      A number of officials followed the emperor, some to hold his robes, others to adjust his crown, and so on.    
+      ```
+
+   2. 现在分词结构
+
+      ```markdown
+      Jim climbed slowly up the creaking steps, his courage slipping away at every step.
+      ```
+
+   3. 过去分词结构
+
+      ```markdown
+      His voice drowned by the noise, the speaker interrupted his lecture.
+      ```
+
+   4. 没有动词结构
+
+      ```markdown
+      He went off, gun in hand.
+      
+      He went off, and his gun was in hand.
+      ```
+
+2. 做逻辑主语的名词(词组)有时可以省去限定词
+
+   ```markdown
+   He went off, (his) gun in hand.
+   
+   The manager sat quietly in the office, (his) eyes closed.
+   ```
+
+3. 位置灵活,可放在句首,句中或句尾
+
+   ```
+   All things considered, I think i ought to award the job to Smith.   独立主格放于句首
+   
+   He stood in the doorway, his wet cloak dripping water on the rug, and waited for some sing of recognition.    独立主格放于句中
+   ```
+
+4. 可表示多种意义
+
+   ```markdown
+   His homework done, Jim decided to go and see the play.   独立主格在句首,表示时间
+   
+   Her shirt caught in a nail, she couldn't move.   独立主格在句首,表示原因
+   
+   Weather permitting, the cricket match will be played on Wednesday.  独立主格在句首,表示条件
+   
+   She was sitting at her desk, her head slightly lowered over a pile of documents.   独立主格在句尾,表示伴随
+   ```
+
+5. 独立主格可以转变为with或without引导的介词词组
+
+   ```markdown
+   He came up to me, (with his) gun in hand.
+   
+   THe war was over whitout a shot being fired.
+   ```
+
+##### 短语动词和结构
+
+credit ... with ...   相信...具有..., 在(贷方)记入...
