@@ -163,7 +163,7 @@ overlook表示无意的疏忽,忽略
 
 ignore表示有意的疏忽,忽略
 
-##### 短语动词
+##### 短语动词和结构
 
 for the good of ...     为了...的好处,利益
 
@@ -302,4 +302,30 @@ Main knowledge
    ```
 
 > 区分从句是表示原因还是让步可以通过观察整个句子来确定
+
+
+
+# Lesson 21
+
+Main knowledge
+
+- alien&exotic的区别
+
+##### alien&exotic的区别
+
+alien和exotic都表示外来的
+
+但是alien一般表示外国的,外星球的
+
+而exotic一般表示非本国的,外来的  
+
+两者之间的感情色彩不同,alien通常带有贬义的色彩,exotic带有褒义的色彩
+
+##### 动词短语和结构
+
+join hands    携手联合
+
+be rooted in ... 扎根于
+
+in short  总而言之
 
