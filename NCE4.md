@@ -36,7 +36,7 @@ Main knowledge
 
 ```markdown
 1981 was the year when my daughter was born.   
-**这里的where是关系副词,它代替了本应该是关系代词的that**
+**这里的when是关系副词,它代替了本应该是关系代词的that**
 试比较:
 1981 was the year that my daughter was born. 
 
@@ -62,7 +62,7 @@ normal和ordinary都表示正常的,但是ordinary经常用来形容人等有生
 ```markdown
 I want a nomal size suit please.
 
-I am just a ordinary person. 
+I am just an ordinary person. 
 ```
 
 ##### 短语动词和结构
