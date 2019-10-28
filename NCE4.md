@@ -329,3 +329,75 @@ be rooted in ... 扎根于
 
 in short  总而言之
 
+
+
+# Lesson 22
+
+Main knowledge
+
+- 省略了to的动词不定式的用法
+
+##### 省略了动词不定式的用法
+
+动词help用来表示帮助某人做某事时, 可以省略to直接跟动词原型,  也可以不省略, 但是如果是否定句就不能省略
+
+```markdown
+Everyone in the village helped (to) build the New Young Centre.   此处可省略
+
+How can I help my children not **to** worry about the exam?    此处不能省略to
+```
+
+动词know用于完成时时,其后可以省略to直接跟动词原型,也可以不省略
+
+```markdown
+I have never known her (to) have those experiences before.
+```
+
+当help和know本身为被动形式时, 如果后面跟不定式, to不能省略
+
+```markdown
+He was helped to kick the bad habit.    
+
+He was known to possess three dogs.
+```
+
+> 同样,在and, but, except, or, than, 后面的to可省略,也可不省略
+
+> 当句子中两个动词不定式紧密连接时,第二个不定式的to可省略,也可不省略
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
