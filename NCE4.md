@@ -331,7 +331,7 @@ in short  总而言之
 
 
 
-# Lesson 22
+# Lesson 22-23
 
 Main knowledge
 
@@ -346,6 +346,8 @@ Everyone in the village helped (to) build the New Young Centre.   此处可省�
 
 How can I help my children not **to** worry about the exam?    此处不能省略to
 ```
+
+动词have后面跟省略了to的动词不定式时, 通常表示要求某人做某事
 
 动词know用于完成时时,其后可以省略to直接跟动词原型,也可以不省略
 
@@ -365,11 +367,19 @@ He was known to possess three dogs.
 
 > 当句子中两个动词不定式紧密连接时,第二个不定式的to可省略,也可不省略
 
+**感知动词**
 
+在感知动词see, hear, feel, notice, watch, smell等后, 其后面可以跟省略了to的动词不定式, 也可以跟动名词
 
+感知动词后如果后面跟的是省略了to的动词不定式, 一般表示整体动作, 如果后面跟的是动名词形式, 则表示正在发生的动作
 
+感知动词后, 不会直接跟动词的被动形式, 要么是跟动名词的被动形式, 要么是动词的过去分词形式
 
+在感知动词自身为被动形式时, 后面如果跟动名词形式, 代表正在发生的; 如果跟动词不定式(**这里的to不能省略**), 则代表整体动作
 
+**rather/sooner than**
+
+当表示"宁愿"时, rather/sooner than后面一般直接跟省略了to的不定式, 也可以跟动名词形式
 
 
 
