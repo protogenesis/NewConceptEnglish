@@ -956,6 +956,7 @@ to sum up: 总之
 |    fail in    |    失败    |
 | encourage in  |    鼓励    |
 |  believe in   |    相信    |
+|  respect in   |    尊敬    |
 
 
 
