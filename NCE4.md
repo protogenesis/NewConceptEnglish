@@ -381,32 +381,73 @@ He was known to possess three dogs.
 
 当表示"宁愿"时, rather/sooner than后面一般直接跟省略了to的不定式, 也可以跟动名词形式
 
+##### 短语动词
+
+make oneself understood    表达自己的意思
 
 
 
+# Lesson 24-37
 
+##### 短语动词和结构
 
+a burst of ...  一阵
 
+at the disposal of ...  交由...处置/支配
 
+dispose of ...   处理
 
+establish ... as ...   将...确立为...
 
+water under the bridge     都是过去的事情了,就不要再提了
 
+settle down   定居下来, 专心从事...
 
+settle in ...   习惯,适应...
 
+settle on ...    决定,决心...
 
+lay stress on  ...   强调...
 
+on the part of sb.    由某人所表现出的.../就...而言
 
+before very long   不久
 
+sb bring sth on himself.    咎由自取
 
+calculate on ...    指望
 
+keep sb in line    使某人守规矩      
 
+keep sb in order    管理某人 
 
+has yet to do sth.   尚未做某事
 
+in accordance with ...   一致
 
+set in   开始,到来
 
+at the height of ...   在...的高度
 
+a riot of ...    许多的,丰富的
 
+only too ... to do sth.   非常...能做某事
 
+in all probability     很可能
+
+give more than a passing thought    稍微想过
+
+be confined to ...   仅限于
+
+be fashioned after ...   按照...做成
+
+stand up to sth   经受住...
+
+face up to sth   直面,正视某事
+
+to the extent ...  到达某种程度
+
+be analogous to ...   与...类似
 
 
 
