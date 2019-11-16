@@ -449,6 +449,28 @@ to the extent ...  到达某种程度
 
 be analogous to ...   与...类似
 
+# Lesson 38-40
+
+短语动词和结构
+
+to my certain knowledge     就我所知
+
+might as well do     还是做...的好
+
+flirt with ...   忽视,不当回事
+
+take time off from ...     暂停
+
+pass for ...   被当做,假冒为
+
+in the sight of ...   从...角度来看
+
+give the impression of ...   具有...的印象
+
+race in to ...   冲向...
+
+the same ... as ...   与...相同的
+
 
 
 
