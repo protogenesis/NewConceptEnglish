@@ -449,7 +449,7 @@ to the extent ...  到达某种程度
 
 be analogous to ...   与...类似
 
-# Lesson 38-40
+# Lesson 38-41
 
 短语动词和结构
 
@@ -471,6 +471,12 @@ race in to ...   冲向...
 
 the same ... as ...   与...相同的
 
+assign sth to sb. / assign to sb sth. / assign sb sth.    分配给某人某物
 
+take sth with a grain of salt.    做某事有所保留
+
+with the aid of ...    在...的帮助下
+
+ 
 
 
