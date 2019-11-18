@@ -449,7 +449,7 @@ to the extent ...  到达某种程度
 
 be analogous to ...   与...类似
 
-# Lesson 38-41
+# Lesson 38-42
 
 短语动词和结构
 
@@ -477,13 +477,11 @@ take sth with a grain of salt.    做某事有所保留
 
 with the aid of ...    在...的帮助下
 
- 
-
-# Lesson 38
-
-add up   讲得通, 言之有理
+ add up   讲得通, 言之有理
 
 add up to   总计达, 总括起来意味着
 
 beware of ...   当心,注意某事
+
+shake off   摆脱  
 
