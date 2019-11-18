@@ -446,7 +446,7 @@ I prefer to sleep on the floor.  我喜欢睡在地板上.  (to为动词不定�
 
 I prefer sleeping on the floor to sleeping on the mattress. 我更喜欢睡在地板上,而不是床垫上.  (to为介词,prefer和to后面在这种情况下接名词,动名词等)
 
-I prefer to sleep on the floor rather than (to) sleep on the mattress. 翻译同上. (此处to为不定式,rather than为强调,后面的to往往可以省略)
+I prefer to sleep on the floor rather than sleep on the mattress. 翻译同上. (此处to为不定式,rather than为强调,跟随在rather than后的sleep与动词不定式为并列关系)
 
 相比...更加...的句式
 I would rather sleep on the floor than sleep on the mattress.  翻译同上.

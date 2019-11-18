@@ -479,4 +479,11 @@ with the aid of ...    在...的帮助下
 
  
 
+# Lesson 38
+
+add up   讲得通, 言之有理
+
+add up to   总计达, 总括起来意味着
+
+beware of ...   当心,注意某事
 
