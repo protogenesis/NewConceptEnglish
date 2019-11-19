@@ -485,3 +485,32 @@ beware of ...   当心,注意某事
 
 shake off   摆脱  
 
+# Lesson 43
+
+Main knowledge
+
+- 英语中的大数字互译法
+
+##### 英语中的大数字译法
+
+英语中的一些大数字(超过万的), 和汉语的读法有所不同,在英语中数字每三位用逗号分开,每一个逗号从右往左分别读作thousand, million, billion.
+
+例如一千亿(100,000,000,000)用英文表示则是: one hundred billion(一百*十亿), 或者one hundred thousand million(一百\*一千\*一百万).
+
+[此图来自知乎答主鹿格兰](<https://www.zhihu.com/people/song-tong-yue/activities>)
+
+[原回答请点击](<https://www.zhihu.com/question/48189353>)
+
+![英语中的大数字译法](https://pic3.zhimg.com/80/3d8d1848536f3f4dabbb3dbcfc53043f_hd.jpg)
+
+##### 动词短语和结构
+
+let alone sth.   更不需要说...
+
+come up against ...    遇到
+
+be bound to do sth.   必然会最某事
+
+be bound up in ...    忙于
+
+be bound up with ...  与...有关联
