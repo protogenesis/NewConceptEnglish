@@ -514,3 +514,47 @@ be bound to do sth.   必然会最某事
 be bound up in ...    忙于
 
 be bound up with ...  与...有关联
+
+# Lesson 44-46
+
+##### 与hand组成的结构
+
+on hand    可用的
+
+at hand    在手边的
+
+by hand    用手的方式
+
+off hand    立即
+
+in hand    正在做的
+
+##### 短语动词和结构
+
+It is the other way around.    正好相反
+
+hold sway over sth.    有支配...的能力
+
+go behind sth.   摆脱...
+
+have reference to ...   参照...
+
+in all seriousness    庄重地, 严肃地
+
+be incumbent upon sb.   对某人来说义不容辞的
+
+make a very poor show.   出丑
+
+stand along.   孤立,孑然一身
+
+catch hold of sth.   握住,抓住
+
+make use of ...    利用
+
+be of use    有用
+
+be essential to/for ...      对...非常重要的
+
+be banished from ...    被驱赶,抛弃
+
+go hand in hand.    携手并进
