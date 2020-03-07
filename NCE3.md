@@ -562,7 +562,7 @@ Main knowledge
 1. 表示方向的单词的首字母   ```South/south```
 2. 年代   ```nineties/Nineties```
 3. 季节名称   ```Autumn/autumn```
-4. 用以指某一类人的头衔   ```The gret Prime Ministers/The great prime ministers  历任首相们```
+4. 用以指某一类人的头衔   ```The great Prime Ministers/The great prime ministers  历任首相们```
 5. 代词He,Him,His指代基督,上帝
 
 ##### 短语动词和结构

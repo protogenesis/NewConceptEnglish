@@ -371,7 +371,7 @@ grow加形容词通常表示变得怎么怎么样
 
 ##### 双重所有格
 
-双重所有格of和's连用,of一般表示没有生命的物体,'s表示有生命的. 名词的所有格变化规则见13课
+双重所有格of和's连用,of一般表示没有生命的物体,'s表示有生命的. 名词的所有格变化规则[见第13课](#lesson-13)
 
 ##### 短语和短语结构:
 
@@ -534,9 +534,9 @@ part一般指装卸货物的港口,harbour一般只可以提供避风,停留的�
 2. 在复合型名词前看情况两个名词都加's或者最后一个加's
 
    > For example:
-
+   >
    > Rachel's apartment and Monica's apartment   瑞秋的公寓和莫妮卡的公寓
-
+   >
    > Rachel and Monica's apartment	瑞秋和莫妮卡的公寓
 
 3. 复数名词以s结尾的只要加'
@@ -1518,7 +1518,7 @@ pick sth up	捡起...
 #### Main knowledge
 
 - so ... that ... 构成的短语和such ... that ... 构成的短语
-- 主动 + 动词 + 名词/代词 + 不带to的不定式
+- 主语 + 动词 + 名词/代词 + 不带to的不定式
 
 ##### so ... that ... 构成的短语和such ... that ... 构成的短语
 
@@ -1534,7 +1534,7 @@ such后面跟形容词(可选的)和名词+that
 >
 > He is so intelligent that he wins the race every time. 他非常聪明,每次比赛都赢
 
-##### 主动 + 动词 + 名词/代词 + 不带to的不定式(感官动词)
+##### 主语 + 动词 + 名词/代词 + 不带to的不定式(感官动词)
 
 当see等其他一些感知动词(如feel, hear, notice, smell, watch等)做动词时,后面的动词不定式不要带to
 
@@ -1831,6 +1831,16 @@ can never ... too ...
 can't ... too ...
 
 cannot ... too ...
+
+> For example:
+>
+> A man can never have too many ties.
+>
+> 翻译： 一个男人从来没有过领带过多。（ 一个男人拥有再多的领带也不嫌多）
+>
+> A woman can't have too many hats.
+>
+> 翻译： 一个女人从来没有过帽子过多。 
 
 ##### remark和observe和notice的区别
 
@@ -2380,11 +2390,11 @@ rise单独使用,表示太阳升起,起床等  过去式: rose   过去分词: r
 
 ##### lay和lie的区别
 
-lay表示放置,准备  过去式/过去分词: laid
+lay表示放置,准备  过去式/过去分词: laid, 现在分词为: laying
 
-lie表示处于...的状态,躺时  过去式: lay  过去分词: lain 
+lie表示处于...的状态,躺时  过去式: lay ,过去分词: lain, 现在分词: lying
 
-lie表示说谎时  过去式/过去分词: lied
+lie表示说谎时  过去式/过去分词: lied, 现在分词: lying 
 
 ##### 短语结构
 
