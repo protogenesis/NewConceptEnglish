@@ -25,7 +25,7 @@
 
 [新概念英语全册听力视频](http://newconceptenglish.com)
 
-[解谜英语语法](./src/解谜英语.png) [By 王垠](http://www.yinwang.org)
+[解谜英语语法](http://www.yinwang.org/blog-cn/2018/11/23/grammar)    [英语学习的一些经验](http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips)     [By 王垠](http://www.yinwang.org)
 
 来源于自己手动整理(当然没有像书中讲解的那么详细和全面,只是将自己的理解记录下来)
 
